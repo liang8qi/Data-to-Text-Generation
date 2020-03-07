@@ -27,4 +27,4 @@ Code: [Github](https://github.com/DavidGrangier/wikipedia-biography-dataset)
 
 ## 3. Evaluation Metrics
 
-# Updating ......
+# <center>Updating ......</center>
