@@ -15,7 +15,7 @@
 
 ## 2. DataSet
 
-### WikiBio
+### 1. WikiBio
 
 Source: [Neural text generation from structured data with application to the biography domain.](https://arxiv.org/abs/1603.07771) [Code](https://github.com/DavidGrangier/wikipedia-biography-dataset)
 
