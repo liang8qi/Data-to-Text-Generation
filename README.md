@@ -25,6 +25,5 @@ Code: [Github](https://github.com/DavidGrangier/wikipedia-biography-dataset)
 
 1. [Enhancing Neural Data-To-Text Generation Models with External Background Knowledge](https://www.aclweb.org/anthology/D19-1299/) **EMNLP2019**
 
-## 3. SOTA
 
 # Updating
