@@ -12,14 +12,14 @@
 ### 2019
 
 1. [Enhancing Neural Data-To-Text Generation Models with External Background Knowledge](https://www.aclweb.org/anthology/D19-1299/) **EMNLP2019**
-   - Code: [official](https://github.com/hitercs/WikiInfo2Text)
+   - Code: [Official](https://github.com/hitercs/WikiInfo2Text)
 ## 2. DataSet
 
 ### 1. WikiBio
 
 Source: [Neural text generation from structured data with application to the biography domain.](https://arxiv.org/abs/1603.07771) **EMNLP2016**
 
-Code: [Github](https://github.com/DavidGrangier/wikipedia-biography-dataset)
+Code: [Official](https://github.com/DavidGrangier/wikipedia-biography-dataset)
 
 #### Related Papers
 
