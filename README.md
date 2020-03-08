@@ -28,5 +28,5 @@ Code: [Official](https://github.com/DavidGrangier/wikipedia-biography-dataset)
 1. [Enhancing Neural Data-To-Text Generation Models with External Background Knowledge](https://www.aclweb.org/anthology/D19-1299/) **EMNLP2019**
 
 ## 3. Evaluation Metrics
-1. PARENT: [Handling Divergent Reference Texts when Evaluating Table-to-Text Generation](https://arxiv.org/abs/1906.01081) **ACL2019**
+1. **PARENT**: [Handling Divergent Reference Texts when Evaluating Table-to-Text Generation](https://arxiv.org/abs/1906.01081) **ACL2019**
 # Updating ......
