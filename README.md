@@ -9,7 +9,8 @@
    - Code: [Official](https://github.com/aistairc/sports-reporter)
 3. [Towards Comprehensive Description Generation from Factual Attribute-value Tables ](https://www.aclweb.org/anthology/P19-1600/) **ACL2019**
 4. [Data-to-text Generation with Entity Modeling](https://www.aclweb.org/anthology/P19-1195/) **ACL2019**
-5. [Handling Divergent Reference Texts when Evaluating Table-to-Text Generation](https://arxiv.org/abs/1906.01081) **ACL2019**
+5. [Handling Divergent Reference Texts when Evaluating Table-to-Text Generation](https://arxiv.org/abs/1906.01081) **ACL2019** 
+   - Code: [Official](https://github.com/google-research/language/tree/master/language/table_text_eval)
 
 ### 2019
 
@@ -29,4 +30,5 @@ Code: [Official](https://github.com/DavidGrangier/wikipedia-biography-dataset)
 
 ## 3. Evaluation Metrics
 1. **PARENT**: [Handling Divergent Reference Texts when Evaluating Table-to-Text Generation](https://arxiv.org/abs/1906.01081) **ACL2019**
+   - Code: [Official](https://github.com/google-research/language/tree/master/language/table_text_eval)
 # Updating ......
