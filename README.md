@@ -16,6 +16,8 @@
 
 1. [Enhancing Neural Data-To-Text Generation Models with External Background Knowledge](https://www.aclweb.org/anthology/D19-1299/) **EMNLP2019**
    - Code: [Official](https://github.com/hitercs/WikiInfo2Text)
+2. [Neural data-to-text generation: A comparison between pipeline and end-to-end architectures](https://arxiv.org/abs/1908.09022) **EMNLP2019**
+   - Code: [Official](https://github.com/ThiagoCF05/DeepNLG/)
 ## 2. DataSet
 
 ### 1. WikiBio
@@ -27,6 +29,15 @@ Code: [Official](https://github.com/DavidGrangier/wikipedia-biography-dataset)
 #### Related Papers
 
 1. [Enhancing Neural Data-To-Text Generation Models with External Background Knowledge](https://www.aclweb.org/anthology/D19-1299/) **EMNLP2019**
+
+### 2. The Augmented WebNLG corpus
+
+Source: [Enriching the WebNLG corpus](https://www.aclweb.org/anthology/W18-6521/) **ACL2018**
+
+Code: [Official](https://github.com/ThiagoCF05/webnlg)
+
+#### Related Papers
+1. [Neural data-to-text generation: A comparison between pipeline and end-to-end architectures](https://arxiv.org/abs/1908.09022) **EMNLP2019**
 
 ## 3. Evaluation Metrics
 1. **PARENT**: [Handling Divergent Reference Texts when Evaluating Table-to-Text Generation](https://arxiv.org/abs/1906.01081) **ACL2019**
