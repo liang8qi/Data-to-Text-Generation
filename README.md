@@ -11,6 +11,8 @@
 4. [Data-to-text Generation with Entity Modeling](https://www.aclweb.org/anthology/P19-1195/) **ACL2019**
 5. [Handling Divergent Reference Texts when Evaluating Table-to-Text Generation](https://arxiv.org/abs/1906.01081) **ACL2019** 
    - Code: [Official](https://github.com/google-research/language/tree/master/language/table_text_eval)
+6. [Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation](https://arxiv.org/abs/1904.03396) **NAACL2019**
+   - Code: [Official](https://github.com/AmitMY/chimera)
 
 ### 2019
 
@@ -30,7 +32,15 @@ Code: [Official](https://github.com/DavidGrangier/wikipedia-biography-dataset)
 
 1. [Enhancing Neural Data-To-Text Generation Models with External Background Knowledge](https://www.aclweb.org/anthology/D19-1299/) **EMNLP2019**
 
-### 2. The Augmented WebNLG corpus
+### 2. WebNLG challenge
+
+Source: [The WebNLG Challenge: Generating Text from DBPedia Data](https://www.aclweb.org/anthology/W16-6626/)
+
+#### Related Papers
+
+1. [Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation](https://arxiv.org/abs/1904.03396) **NAACL2019**
+
+### 3. The Augmented WebNLG corpus
 
 Source: [Enriching the WebNLG corpus](https://www.aclweb.org/anthology/W18-6521/) **ACL2018**
 
