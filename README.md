@@ -1,5 +1,11 @@
 # Data-to-Text-Generation
 
+## Content
+
+1. [Papers](https://github.com/DrLiLiang/Data-to-Text-Generation#1-papers)
+2. [Datasets](https://github.com/DrLiLiang/Data-to-Text-Generation#2-datasets)
+3. [Evaluation Metrics](https://github.com/DrLiLiang/Data-to-Text-Generation#3-evaluation-metrics)
+
 ## 1. Papers
 
 ### 2016
@@ -36,7 +42,7 @@
    - Code: [Official](https://github.com/hitercs/WikiInfo2Text)
 2. [Neural data-to-text generation: A comparison between pipeline and end-to-end architectures](https://arxiv.org/abs/1908.09022) **EMNLP2019**
    - Code: [Official](https://github.com/ThiagoCF05/DeepNLG/)
-## 2. DataSet
+## 2. DataSets
 
 ### 1. WikiBio
 
