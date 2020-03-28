@@ -24,6 +24,8 @@
 5. [Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalization](https://www.aclweb.org/anthology/N18-1139/) **NAACL2018**
    - Code: [Official](https://github.com/PrekshaNema25/StructuredData_To_Descriptions)
 
+6. [A mixed hierarchical attention based encoder-decoder approach for standard summarizaion](https://arxiv.org/abs/1804.07790) **NAACL2018**
+
 ### 2018
 
 1. [Key Fact as Pivot: A Two-Stage Model for Low Resource Table-to-Text Generation](https://arxiv.org/abs/1908.03067) **ACL2019**
@@ -35,6 +37,13 @@
    - Code: [Official](https://github.com/google-research/language/tree/master/language/table_text_eval)
 6. [Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation](https://arxiv.org/abs/1904.03396) **NAACL2019**
    - Code: [Official](https://github.com/AmitMY/chimera)
+7. [Operation-guided Neural Networks for High Fidelity Data-To-Text Generation](https://arxiv.org/abs/1809.02735v1) **EMNLP2018**
+8. [Data-to-Text Generation with Content Selection and Planning](https://arxiv.org/abs/1809.00582) **AAAI2019**
+   - Code: [Official](https://github.com/ratishsp/data2text-plan-py)
+9. [Hierarchical Encoder with Auxiliary Supervision for Neural Table-to-Text Generation: Learning Better Representation for Tables](https://www.aaai.org/ojs/index.php/AAAI/article/view/4653) **AAAI2019**
+10. [Deep Graph Convolutional Encoders for Structured Data to Text Generation](http://aclweb.org/anthology/W18-6501) **INLG2018**
+    - Code:  [Official](https://github.com/diegma/graph-2-text)
+11. ...
 
 ### 2019
 
@@ -42,6 +51,11 @@
    - Code: [Official](https://github.com/hitercs/WikiInfo2Text)
 2. [Neural data-to-text generation: A comparison between pipeline and end-to-end architectures](https://arxiv.org/abs/1908.09022) **EMNLP2019**
    - Code: [Official](https://github.com/ThiagoCF05/DeepNLG/)
+3. [Table-to-Text Generation with Effective Hierarchical Encoder on Three dimensions (Row, Column and Time)](https://arxiv.org/abs/1909.02304?context=cs) **EMNLP2019**
+4. [Enhanced Transformer Model for Data-to-Text Generation](https://www.aclweb.org/anthology/D19-5615/) **EMLP-WGNT2019**
+   - Code: [Official](https://github.com/gongliym/data2text-transformer)
+5. [An Encoder with non-Sequential Dependency for Neural Data-to-Text Generation](https://www.aclweb.org/anthology/W19-8619/) **INLG2019**
+
 ## 2. DataSets
 
 ### 1. WikiBio
@@ -56,11 +70,19 @@ Code: [Official](https://github.com/DavidGrangier/wikipedia-biography-dataset)
 3. [Table-to-Text: Describing Table Region with Natural Language](https://arxiv.org/abs/1805.11234) **AAAI2018**
 4. [Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalization](https://www.aclweb.org/anthology/N18-1139/) **NAACL2018**
 5. [Enhancing Neural Data-To-Text Generation Models with External Background Knowledge](https://www.aclweb.org/anthology/D19-1299/) **EMNLP2019**
+6. [An Encoder with non-Sequential Dependency for Neural Data-to-Text Generation](https://www.aclweb.org/anthology/W19-8619/) **INLG2019**
+7. [Hierarchical Encoder with Auxiliary Supervision for Neural Table-to-Text Generation: Learning Better Representation for Tables](https://www.aaai.org/ojs/index.php/AAAI/article/view/4653) **AAAI2019**
 
 ### 2. ROTOWIRE and SBNATION
 
 Source:[Challenges in Data-to-Document Generation](https://arxiv.org/abs/1707.08052) **EMNLP2017**
 Code: [Official](https://github.com/harvardnlp/boxscore-data)
+
+#### Related Papers:
+
+1. [Data-to-Text Generation with Content Selection and Planning](https://arxiv.org/abs/1809.00582) **AAAI2019**
+2. [Table-to-Text Generation with Effective Hierarchical Encoder on Three dimensions (Row, Column and Time)](https://arxiv.org/abs/1909.02304?context=cs) **EMNLP2019**
+3. [Enhanced Transformer Model for Data-to-Text Generation](https://www.aclweb.org/anthology/D19-5615/) **EMLP-WGNT2019**
 
 ### 3. WIKITABLETEXT
 
@@ -74,7 +96,8 @@ Source: [The WebNLG Challenge: Generating Text from DBPedia Data](https://www.ac
 
 #### Related Papers
 
-1. [Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation](https://arxiv.org/abs/1904.03396) **NAACL2019**
+1. [Deep Graph Convolutional Encoders for Structured Data to Text Generation](http://aclweb.org/anthology/W18-6501) **INLG2018**
+2. [Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation](https://arxiv.org/abs/1904.03396) **NAACL2019**
 
 ### 5. The Augmented WebNLG corpus
 
@@ -90,6 +113,24 @@ Code: [Official](https://github.com/ThiagoCF05/webnlg)
 Source: [Learning to Select, Track, and Generate for Data-to-Text](https://www.aclweb.org/anthology/P19-1202/) **ACL2019**
 
 Code: [Official](https://github.com/aistairc/sports-reporter)
+
+### 7. ESPN
+
+Source: [Operation-guided Neural Networks for High Fidelity Data-To-Text Generation](https://arxiv.org/abs/1809.02735v1) **EMNLP2018**
+
+Code: [Official](https://github.com/janenie/espn-nba-data)
+
+Related Papers
+
+1. [An Encoder with non-Sequential Dependency for Neural Data-to-Text Generation](https://www.aclweb.org/anthology/W19-8619/) **INLG2019**
+
+### 8. WEATHERGOV
+
+Source: [Learning semantic correspondences with less supervision](https://cs.stanford.edu/~pliang/papers/semantics-acl2009.pdf) **ACL2009**
+
+#### Related Papers
+
+1. [A mixed hierarchical attention based encoder-decoder approach for standard summarizaion](https://arxiv.org/abs/1804.07790) **NAACL2018**
 
 ## 3. Evaluation Metrics
 1. **PARENT**: [Handling Divergent Reference Texts when Evaluating Table-to-Text Generation](https://arxiv.org/abs/1906.01081) **ACL2019**
