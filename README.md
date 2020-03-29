@@ -55,6 +55,9 @@
 4. [Enhanced Transformer Model for Data-to-Text Generation](https://www.aclweb.org/anthology/D19-5615/) **EMLP-WGNT2019**
    - Code: [Official](https://github.com/gongliym/data2text-transformer)
 5. [An Encoder with non-Sequential Dependency for Neural Data-to-Text Generation](https://www.aclweb.org/anthology/W19-8619/) **INLG2019**
+6. [Learning to Select Bi-Aspect Information for Document-Scale Text Content Manipulation](https://arxiv.org/abs/2002.10210) **AAAI2020**
+   - Code: [Official](https://github.com/syw1996/SCIR-TG-Data2text-Bi-Aspect)
+7. -
 
 ## 2. DataSets
 
@@ -73,7 +76,7 @@ Code: [Official](https://github.com/DavidGrangier/wikipedia-biography-dataset)
 6. [An Encoder with non-Sequential Dependency for Neural Data-to-Text Generation](https://www.aclweb.org/anthology/W19-8619/) **INLG2019**
 7. [Hierarchical Encoder with Auxiliary Supervision for Neural Table-to-Text Generation: Learning Better Representation for Tables](https://www.aaai.org/ojs/index.php/AAAI/article/view/4653) **AAAI2019**
 
-### 2. ROTOWIRE and SBNATION
+### 2. ROTOWIRE
 
 Source:[Challenges in Data-to-Document Generation](https://arxiv.org/abs/1707.08052) **EMNLP2017**
 Code: [Official](https://github.com/harvardnlp/boxscore-data)
@@ -83,6 +86,7 @@ Code: [Official](https://github.com/harvardnlp/boxscore-data)
 1. [Data-to-Text Generation with Content Selection and Planning](https://arxiv.org/abs/1809.00582) **AAAI2019**
 2. [Table-to-Text Generation with Effective Hierarchical Encoder on Three dimensions (Row, Column and Time)](https://arxiv.org/abs/1909.02304?context=cs) **EMNLP2019**
 3. [Enhanced Transformer Model for Data-to-Text Generation](https://www.aclweb.org/anthology/D19-5615/) **EMLP-WGNT2019**
+4. [Learning to Select Bi-Aspect Information for Document-Scale Text Content Manipulation](https://arxiv.org/abs/2002.10210) **AAAI2020**
 
 ### 3. WIKITABLETEXT
 
