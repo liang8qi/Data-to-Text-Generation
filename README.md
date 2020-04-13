@@ -29,23 +29,27 @@
 ### 2018
 
 1. [Operation-guided Neural Networks for High Fidelity Data-To-Text Generation](https://arxiv.org/abs/1809.02735v1) **EMNLP2018**
-2. [Data-to-Text Generation with Content Selection and Planning](https://arxiv.org/abs/1809.00582) **AAAI2019**
+2. [Learning Neural Templates for Text Generation](https://arxiv.org/abs/1808.10122) **EMNLP2018**
+   - Code: [Official](https://github.com/harvardnlp/neural-template-gen)
+3. [Learning Latent Semantic Annotations for Grounding Natural Language to Structured Data](https://www.aclweb.org/anthology/D18-1411/) **EMNLP2018**
+   - Code: [Official](https://github.com/hiaoxui/D2T-Grounding)
+4. [Data-to-Text Generation with Content Selection and Planning](https://arxiv.org/abs/1809.00582) **AAAI2019**
    - Code: [Official](https://github.com/ratishsp/data2text-plan-py)
-3. [Hierarchical Encoder with Auxiliary Supervision for Neural Table-to-Text Generation: Learning Better Representation for Tables](https://www.aaai.org/ojs/index.php/AAAI/article/view/4653) **AAAI2019**
-4. [Key Fact as Pivot: A Two-Stage Model for Low Resource Table-to-Text Generation](https://arxiv.org/abs/1908.03067) **ACL2019**
-5. [Learning to Select, Track, and Generate for Data-to-Text](https://www.aclweb.org/anthology/P19-1202/) **ACL2019**
+5. [Hierarchical Encoder with Auxiliary Supervision for Neural Table-to-Text Generation: Learning Better Representation for Tables](https://www.aaai.org/ojs/index.php/AAAI/article/view/4653) **AAAI2019**
+6. [Key Fact as Pivot: A Two-Stage Model for Low Resource Table-to-Text Generation](https://arxiv.org/abs/1908.03067) **ACL2019**
+7. [Learning to Select, Track, and Generate for Data-to-Text](https://www.aclweb.org/anthology/P19-1202/) **ACL2019**
    - Code: [Official](https://github.com/aistairc/sports-reporter)
-6. [Towards Comprehensive Description Generation from Factual Attribute-value Tables ](https://www.aclweb.org/anthology/P19-1600/) **ACL2019**
-7. [Data-to-text Generation with Entity Modeling](https://www.aclweb.org/anthology/P19-1195/) **ACL2019**
-8. [Handling Divergent Reference Texts when Evaluating Table-to-Text Generation](https://arxiv.org/abs/1906.01081) **ACL2019** 
+8. [Towards Comprehensive Description Generation from Factual Attribute-value Tables ](https://www.aclweb.org/anthology/P19-1600/) **ACL2019**
+9. [Data-to-text Generation with Entity Modeling](https://www.aclweb.org/anthology/P19-1195/) **ACL2019**
+10. [Handling Divergent Reference Texts when Evaluating Table-to-Text Generation](https://arxiv.org/abs/1906.01081) **ACL2019** 
    - Code: [Official](https://github.com/google-research/language/tree/master/language/table_text_eval)
-9. [Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation](https://arxiv.org/abs/1904.03396) **NAACL2019**
-   - Code: [Official](https://github.com/AmitMY/chimera)
-10. [Text Generation from Knowledge Graphs with Graph Transformers](https://arxiv.org/abs/1904.02342) **NAACL2019**
+11. [Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation](https://arxiv.org/abs/1904.03396) **NAACL2019**
+    - Code: [Official](https://github.com/AmitMY/chimera)
+12. [Text Generation from Knowledge Graphs with Graph Transformers](https://arxiv.org/abs/1904.02342) **NAACL2019**
     - Code: [Official](https://github.com/rikdz/GraphWriter)
-11. [Deep Graph Convolutional Encoders for Structured Data to Text Generation](http://aclweb.org/anthology/W18-6501) **INLG2018**
+13. [Deep Graph Convolutional Encoders for Structured Data to Text Generation](http://aclweb.org/anthology/W18-6501) **INLG2018**
     - Code:  [Official](https://github.com/diegma/graph-2-text)
-12. ...
+14. ...
 
 ### 2019
 
@@ -63,7 +67,7 @@
    - Code: [Official](https://github.com/wanghm92/rw_fg)
 9. [Learning to Select Bi-Aspect Information for Document-Scale Text Content Manipulation](https://arxiv.org/abs/2002.10210) **AAAI2020**
    - Code: [Official](https://github.com/syw1996/SCIR-TG-Data2text-Bi-Aspect)
-10. -
+10. [Variational Template Machine for Data-to-Text Generation](https://openreview.net/forum?id=HkejNgBtPB) **ICLR2020**
 
 ## 2. DataSets
 
@@ -78,9 +82,11 @@ Code: [Official](https://github.com/DavidGrangier/wikipedia-biography-dataset)
 2. [Table-to-text Generation by Structure-aware Seq2seq Learning](https://arxiv.org/abs/1711.09724) **AAAI2018**
 3. [Table-to-Text: Describing Table Region with Natural Language](https://arxiv.org/abs/1805.11234) **AAAI2018**
 4. [Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalization](https://www.aclweb.org/anthology/N18-1139/) **NAACL2018**
-5. [Enhancing Neural Data-To-Text Generation Models with External Background Knowledge](https://www.aclweb.org/anthology/D19-1299/) **EMNLP2019**
+5. [Learning Neural Templates for Text Generation](https://arxiv.org/abs/1808.10122) **EMNLP2018**
 6. [An Encoder with non-Sequential Dependency for Neural Data-to-Text Generation](https://www.aclweb.org/anthology/W19-8619/) **INLG2019**
 7. [Hierarchical Encoder with Auxiliary Supervision for Neural Table-to-Text Generation: Learning Better Representation for Tables](https://www.aaai.org/ojs/index.php/AAAI/article/view/4653) **AAAI2019**
+8. [Enhancing Neural Data-To-Text Generation Models with External Background Knowledge](https://www.aclweb.org/anthology/D19-1299/) **EMNLP2019**
+9. [Variational Template Machine for Data-to-Text Generation](https://openreview.net/forum?id=HkejNgBtPB) **ICLR2020**
 
 ### 2. ROTOWIRE
 
@@ -156,6 +162,16 @@ Code: [Official](https://github.com/wanghm92/rw_fg)
 Source: [Text Generation from Knowledge Graphs with Graph Transformers](https://arxiv.org/abs/1904.02342) **NAACL2019**
 
 Code: [Official](https://github.com/rikdz/GraphWriter)
+
+### 11. SPNLG
+
+Source: [Can neural generators for dialogue learn sentence planning and discourse structuring?](https://arxiv.org/abs/1809.03015) **INLG2018**
+
+Code: [Official](https://nlds.soe.ucsc.edu/sentence-planning-NLG)
+
+#### Related Papers
+
+1. [Variational Template Machine for Data-to-Text Generation](https://openreview.net/forum?id=HkejNgBtPB) **ICLR2020**
 
 ## 3. Evaluation Metrics
 1. **PARENT**: [Handling Divergent Reference Texts when Evaluating Table-to-Text Generation](https://arxiv.org/abs/1906.01081) **ACL2019**
