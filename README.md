@@ -42,7 +42,7 @@
 9. [Towards Comprehensive Description Generation from Factual Attribute-value Tables ](https://www.aclweb.org/anthology/P19-1600/) **ACL2019**
 10. [Data-to-text Generation with Entity Modeling](https://www.aclweb.org/anthology/P19-1195/) **ACL2019**
 11. [Handling Divergent Reference Texts when Evaluating Table-to-Text Generation](https://arxiv.org/abs/1906.01081) **ACL2019** 
-   - Code: [Official](https://github.com/google-research/language/tree/master/language/table_text_eval)
+    - Code: [Official](https://github.com/google-research/language/tree/master/language/table_text_eval)
 11. [Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation](https://arxiv.org/abs/1904.03396) **NAACL2019**
     - Code: [Official](https://github.com/AmitMY/chimera)
 12. [Text Generation from Knowledge Graphs with Graph Transformers](https://arxiv.org/abs/1904.02342) **NAACL2019**
@@ -71,8 +71,10 @@
    - Code: [Official](https://github.com/wanghm92/rw_fg)
 10. [Learning to Select Bi-Aspect Information for Document-Scale Text Content Manipulation](https://arxiv.org/abs/2002.10210) **AAAI2020**
    - Code: [Official](https://github.com/syw1996/SCIR-TG-Data2text-Bi-Aspect)
-11. [Variational Template Machine for Data-to-Text Generation](https://openreview.net/forum?id=HkejNgBtPB) **ICLR2020**
-
+11. [Learning to Select Bi-Aspect Information for Document-Scale Text Content Manipulation](https://arxiv.org/abs/2002.10210) **AAAI2020**
+    - Code: [Official](https://github.com/wanghm92/rw_fg)
+12. [Variational Template Machine for Data-to-Text Generation](https://openreview.net/forum?id=HkejNgBtPB) **ICLR2020**
+13. ...
 ## 2. DataSets
 
 ### 1. WikiBio
