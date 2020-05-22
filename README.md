@@ -70,11 +70,14 @@
 9. [Revisiting Challenges in Data-to-Text Generation with Fact Grounding](https://www.aclweb.org/anthology/W19-8639/) **INLG2019**
    - Code: [Official](https://github.com/wanghm92/rw_fg)
 10. [Learning to Select Bi-Aspect Information for Document-Scale Text Content Manipulation](https://arxiv.org/abs/2002.10210) **AAAI2020**
-   - Code: [Official](https://github.com/syw1996/SCIR-TG-Data2text-Bi-Aspect)
+    - Code: [Official](https://github.com/syw1996/SCIR-TG-Data2text-Bi-Aspect)
 11. [Learning to Select Bi-Aspect Information for Document-Scale Text Content Manipulation](https://arxiv.org/abs/2002.10210) **AAAI2020**
     - Code: [Official](https://github.com/wanghm92/rw_fg)
 12. [Variational Template Machine for Data-to-Text Generation](https://openreview.net/forum?id=HkejNgBtPB) **ICLR2020**
-13. ...
+13. [Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints](https://arxiv.org/abs/2005.00969) **ACL2020**
+14. [Neural Data-to-Text Generation via Jointly Learning the Segmentation and Correspondence](https://arxiv.org/abs/2005.01096) **ACL2020**
+15. ...
+
 ## 2. DataSets
 
 ### 1. WikiBio
