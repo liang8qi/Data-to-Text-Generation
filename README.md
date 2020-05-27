@@ -78,6 +78,12 @@
 14. [Neural Data-to-Text Generation via Jointly Learning the Segmentation and Correspondence](https://arxiv.org/abs/2005.01096) **ACL2020**
 15. ...
 
+### 2020
+
+1.  [ToTTo: A Controlled Table-To-Text Generation Dataset](https://arxiv.org/abs/2004.14373) **arXiv2020**
+   - Code: [Official](https://github.com/google-research/language/tree/master/language/table_text_eval)
+2. ...
+
 ## 2. DataSets
 
 ### 1. WikiBio
@@ -182,6 +188,12 @@ Code: [Official](https://nlds.soe.ucsc.edu/sentence-planning-NLG)
 #### Related Papers
 
 1. [Variational Template Machine for Data-to-Text Generation](https://openreview.net/forum?id=HkejNgBtPB) **ICLR2020**
+
+### 12. ToTTo
+
+Source: [ToTTo: A Controlled Table-To-Text Generation Dataset](https://arxiv.org/abs/2004.14373) **arXiv2020**
+
+Code: [Official](https://github.com/google-research-datasets/totto)
 
 ## 3. Evaluation Metrics
 1. **PARENT**: [Handling Divergent Reference Texts when Evaluating Table-to-Text Generation](https://arxiv.org/abs/1906.01081) **ACL2019**
