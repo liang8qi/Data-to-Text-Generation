@@ -60,6 +60,7 @@
 2. [Neural data-to-text generation: A comparison between pipeline and end-to-end architectures](https://arxiv.org/abs/1908.09022) **EMNLP2019**
    - Code: [Official](https://github.com/ThiagoCF05/DeepNLG/)
 3. [Table-to-Text Generation with Effective Hierarchical Encoder on Three dimensions (Row, Column and Time)](https://arxiv.org/abs/1909.02304?context=cs) **EMNLP2019**
+   - Code: [Official](https://github.com/ernestgong/data2text-three-dimensions/)
 4. [Modeling Graph Structure in Transformer for Better AMR-to-Text Generation](https://arxiv.org/abs/1909.00136) **EMNLP2019**
    - Code: [Official](https://github.com/Amazing-J/structural-transformer)
 5. [Enhanced Transformer Model for Data-to-Text Generation](https://www.aclweb.org/anthology/D19-5615/) **EMLP-WGNT2019**
