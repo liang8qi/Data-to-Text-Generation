@@ -75,7 +75,7 @@
 12. [Variational Template Machine for Data-to-Text Generation](https://openreview.net/forum?id=HkejNgBtPB) **ICLR2020**
 13. [Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints](https://arxiv.org/abs/2005.00969) **ACL2020**
 14. [Neural Data-to-Text Generation via Jointly Learning the Segmentation and Correspondence](https://arxiv.org/abs/2005.01096) **ACL2020**
-14. Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation **ACL2020**
+14. [Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation](https://www.aclweb.org/anthology/2020.acl-main.224/) **ACL2020**
 15. Heterogeneous Graph Transformer for Graph-to-Sequence Learning **ACL2020**
 16. Structural Information Preserving for Graph-to-Text Generation **ACL2020**
 17. ...
