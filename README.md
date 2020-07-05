@@ -93,7 +93,8 @@
 
 1.   [ToTTo: A Controlled Table-To-Text Generation Dataset](https://arxiv.org/abs/2004.14373) **arXiv2020**
    - Code: [Official](https://github.com/google-research/language/tree/master/language/table_text_eval)
-2.  ...
+2.  [Modeling Graph Structure via Relative Position for Better Text Generation from Knowledge Graphs](https://arxiv.org/abs/2006.09242) **arXiv2020**
+3.   ...
 
 ## 2. DataSets
 
