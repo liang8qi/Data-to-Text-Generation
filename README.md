@@ -103,12 +103,14 @@
 
 1.   [ToTTo: A Controlled Table-To-Text Generation Dataset](https://arxiv.org/abs/2004.14373) **arXiv2020**
    - Code: [Official](https://github.com/google-research/language/tree/master/language/table_text_eval)
-2.  [Modeling Graph Structure via Relative Position for Better Text Generation from Knowledge Graphs](https://arxiv.org/abs/2006.09242) **arXiv2020**
+2.   [Modeling Graph Structure via Relative Position for Better Text Generation from Knowledge Graphs](https://arxiv.org/abs/2006.09242) **arXiv2020**
 3.   [CycleGT: Unsupervised Graph-to-Text and Text-to-Graph Generation via Cycle Training](https://arxiv.org/abs/2006.04702) **NIPS2020**
      - Code: [Official](https://github.com/QipengGuo/CycleGT)
 4.   [Modeling Global and Local Node Contexts for Text Generation from Knowledge Graphs](https://arxiv.org/abs/2001.11003) **TACL2020**
      - Code: [Official](https://github.com/UKPLab/kg2text)
-5.   ...
+5.   [Have Your Text and Use It Too! End-to-End Neural Data-to-Text Generation with Semantic Fidelity](https://arxiv.org/abs/2004.06577) **arXiv2020**
+6.   [Investigating Pretrained Language Models for Graph-to-Text Generation](https://arxiv.org/abs/2007.08426) **arXiv2020**
+7.   ...
 
 ## 2. DataSets
 
