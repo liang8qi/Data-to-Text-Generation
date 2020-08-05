@@ -43,15 +43,16 @@
    - Code: [Official](https://github.com/aistairc/sports-reporter)
 9. [Towards Comprehensive Description Generation from Factual Attribute-value Tables ](https://www.aclweb.org/anthology/P19-1600/) **ACL2019**
 10. [Data-to-text Generation with Entity Modeling](https://www.aclweb.org/anthology/P19-1195/) **ACL2019**
+    - Code: [Official](https://github.com/ratishsp/data2text-entity-py)
 11. [Handling Divergent Reference Texts when Evaluating Table-to-Text Generation](https://arxiv.org/abs/1906.01081) **ACL2019** 
     - Code: [Official](https://github.com/google-research/language/tree/master/language/table_text_eval)
-11. [Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation](https://arxiv.org/abs/1904.03396) **NAACL2019**
+12. [Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation](https://arxiv.org/abs/1904.03396) **NAACL2019**
     - Code: [Official](https://github.com/AmitMY/chimera)
-12. [Text Generation from Knowledge Graphs with Graph Transformers](https://arxiv.org/abs/1904.02342) **NAACL2019**
+13. [Text Generation from Knowledge Graphs with Graph Transformers](https://arxiv.org/abs/1904.02342) **NAACL2019**
     - Code: [Official](https://github.com/rikdz/GraphWriter)
-13. [Structural Neural Encoders for AMR-to-text Generation NAACL2019](https://arxiv.org/abs/1903.11410) **NAACL2019**
+14. [Structural Neural Encoders for AMR-to-text Generation NAACL2019](https://arxiv.org/abs/1903.11410) **NAACL2019**
     - Code: [Official](https://github.com/mdtux89/OpenNMT-py-AMR-to-text)
-14. [Deep Graph Convolutional Encoders for Structured Data to Text Generation](http://aclweb.org/anthology/W18-6501) **INLG2018**
+15. [Deep Graph Convolutional Encoders for Structured Data to Text Generation](http://aclweb.org/anthology/W18-6501) **INLG2018**
     - Code:  [Official](https://github.com/diegma/graph-2-text)
 16. [Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning](https://arxiv.org/abs/1908.05957) **TACL2018**
     - Code: [Official](https://github.com/Cartus/DCGCN)
@@ -75,29 +76,32 @@
 8. [An Encoder with non-Sequential Dependency for Neural Data-to-Text Generation](https://www.aclweb.org/anthology/W19-8619/) **INLG2019**
 9. [Controlling Contents in Data-to-Document Generation with Human-Designed Topic Labels](https://www.aclweb.org/anthology/W19-8640/) **INLG2019**
 10. [Revisiting Challenges in Data-to-Text Generation with Fact Grounding](https://www.aclweb.org/anthology/W19-8639/) **INLG2019**
-   - Code: [Official](https://github.com/wanghm92/rw_fg)
+    - Code: [Official](https://github.com/wanghm92/rw_fg)
 11. [Graph Transformer for Graph-to-Sequence Learning](https://arxiv.org/abs/1911.07470) **AAAI2020**
     - Code: [Official](https://github.com/jcyk/gtos)
-12. [Learning to Select Bi-Aspect Information for Document-Scale Text Content Manipulation](https://arxiv.org/abs/2002.10210) **AAAI2020**
+12. [Sentence Generation for Entity Description with Content-plan Attention](https://people.eng.unimelb.edu.au/jianzhongq/papers/AAAI2020_SentenceGeneration.pdf) **AAAI2020**
+    - Code: [Official](http://www.ruizhang.info/GKB/gkb.htm)
+13. [Learning to Select Bi-Aspect Information for Document-Scale Text Content Manipulation](https://arxiv.org/abs/2002.10210) **AAAI2020**
     - Code: [Official](https://github.com/syw1996/SCIR-TG-Data2text-Bi-Aspect)
-13. [Variational Template Machine for Data-to-Text Generation](https://openreview.net/forum?id=HkejNgBtPB) **ICLR2020**
-14. [Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints](https://arxiv.org/abs/2005.00969) **ACL2020**
-15. [Neural Data-to-Text Generation via Jointly Learning the Segmentation and Correspondence](https://arxiv.org/abs/2005.01096) **ACL2020**
-16. [Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation](https://www.aclweb.org/anthology/2020.acl-main.224/) **ACL2020**
+14. [Variational Template Machine for Data-to-Text Generation](https://openreview.net/forum?id=HkejNgBtPB) **ICLR2020**
+15. [Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints](https://arxiv.org/abs/2005.00969) **ACL2020**
+16. [Neural Data-to-Text Generation via Jointly Learning the Segmentation and Correspondence](https://arxiv.org/abs/2005.01096) **ACL2020**
+17. [Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation](https://www.aclweb.org/anthology/2020.acl-main.224/) **ACL2020**
     - Code: Official
-17. [Heterogeneous Graph Transformer for Graph-to-Sequence Learning](https://www.aclweb.org/anthology/2020.acl-main.640/) **ACL2020**
+18. [Heterogeneous Graph Transformer for Graph-to-Sequence Learning](https://www.aclweb.org/anthology/2020.acl-main.640/) **ACL2020**
     - Code: [Official](https://github.com/QAQ-v/HetGT)
-18. [Structural Information Preserving for Graph-to-Text Generation](https://www.aclweb.org/anthology/2020.acl-main.712/) **ACL2020**
+19. [Structural Information Preserving for Graph-to-Text Generation](https://www.aclweb.org/anthology/2020.acl-main.712/) **ACL2020**
     - Code: [Official](https://github.com/Soistesimmer/AMR-multiview)
-19. [Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks](https://www.aclweb.org/anthology/2020.acl-main.67/) **ACL2020**
+20. [Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks](https://www.aclweb.org/anthology/2020.acl-main.67/) **ACL2020**
     - Code: [Official](https://github.com/ybz79/AMR2text)
-20. [GPT-too: A Language-Model-First Approach for AMR-to-Text Generation](https://www.aclweb.org/anthology/2020.acl-main.167/) **ACL2020**
+21. [GPT-too: A Language-Model-First Approach for AMR-to-Text Generation](https://www.aclweb.org/anthology/2020.acl-main.167/) **ACL2020**
     - Code: [Official](https://github.com/IBM/GPT-too-AMR2text)
-21. [Logical Natural Language Generation from Open-Domain Tables](https://www.aclweb.org/anthology/2020.acl-main.708/) **ACL2020**
+22. [Logical Natural Language Generation from Open-Domain Tables](https://www.aclweb.org/anthology/2020.acl-main.708/) **ACL2020**
     - Code: [Official](https://github.com/wenhuchen/LogicNLG)
-22. [A Generative Model for Joint Natural Language Understanding and Generation](https://arxiv.org/abs/2006.07499) **ACL2020**
+23. [A Generative Model for Joint Natural Language Understanding and Generation](https://arxiv.org/abs/2006.07499) **ACL2020**
     - Code: [Official](https://github.com/andy194673/Joint-NLU-NLG)
-23. ...
+24. [Infobox-to-text Generation with Tree-like PLanning based Attention Network](https://www.ijcai.org/Proceedings/2020/522) **IJCAI2020**
+25. ...
 
 ### 2020
 
