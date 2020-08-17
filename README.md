@@ -100,8 +100,14 @@
     - Code: [Official](https://github.com/wenhuchen/LogicNLG)
 23. [A Generative Model for Joint Natural Language Understanding and Generation](https://arxiv.org/abs/2006.07499) **ACL2020**
     - Code: [Official](https://github.com/andy194673/Joint-NLU-NLG)
-24. [Infobox-to-text Generation with Tree-like PLanning based Attention Network](https://www.ijcai.org/Proceedings/2020/522) **IJCAI2020**
-25. ...
+24. [Two Birds, One Stone: A Simple, Uniﬁed Model for Text Generation from Structured and Unstructured Data](https://arxiv.org/abs/1909.10158) **ACL2020**
+    - Code: [Official](https://github.com/h-shahidi/2birds-gen)
+25. [Infobox-to-text Generation with Tree-like PLanning based Attention Network](https://www.ijcai.org/Proceedings/2020/522) **IJCAI2020**
+26. [Better AMR-To-Text Generation with Graph Structure Reconstruction](https://www.ijcai.org/Proceedings/2020/542) **IJCAI2020**
+    - Code: [Official](https://github.com/sodawater/graph-reconstruction-amr2text)
+27. [RDF-to-Text Generation with Graph-augmented Structural Neural Encoders](https://www.ijcai.org/Proceedings/2020/419)  **IJCAI2020**
+    - Code: [Official](https://github.com/Nicoleqwerty/RDF-to-Text)
+28. ...
 
 ### 2020
 
