@@ -120,7 +120,9 @@
      - Code: [Official](https://github.com/UKPLab/kg2text)
 5.   [Have Your Text and Use It Too! End-to-End Neural Data-to-Text Generation with Semantic Fidelity](https://arxiv.org/abs/2004.06577) **arXiv2020**
 6.   [Investigating Pretrained Language Models for Graph-to-Text Generation](https://arxiv.org/abs/2007.08426) **arXiv2020**
-7.   ...
+7.   [Logic2Text: High-Fidelity Natural Language Generation from Logical Forms](https://arxiv.org/abs/2004.14579) **arXiv2020**
+     - Code: [Official](https://github.com/czyssrs/Logic2Text)
+8.   ...
 
 ## 2. DataSets
 
@@ -232,6 +234,12 @@ Code: [Official](https://nlds.soe.ucsc.edu/sentence-planning-NLG)
 Source: [ToTTo: A Controlled Table-To-Text Generation Dataset](https://arxiv.org/abs/2004.14373) **arXiv2020**
 
 Code: [Official](https://github.com/google-research-datasets/totto)
+
+### 13. LOGIC2TEXT
+
+Source: [Logic2Text: High-Fidelity Natural Language Generation from Logical Forms](https://arxiv.org/abs/2004.14579) **arXiv2020**
+
+Code: [Official](https://github.com/czyssrs/Logic2Text)
 
 ## 3. Evaluation Metrics
 1. **PARENT**: [Handling Divergent Reference Texts when Evaluating Table-to-Text Generation](https://arxiv.org/abs/1906.01081) **ACL2019**
