@@ -122,7 +122,9 @@
 6.   [Investigating Pretrained Language Models for Graph-to-Text Generation](https://arxiv.org/abs/2007.08426) **arXiv2020**
 7.   [Logic2Text: High-Fidelity Natural Language Generation from Logical Forms](https://arxiv.org/abs/2004.14579) **arXiv2020**
      - Code: [Official](https://github.com/czyssrs/Logic2Text)
-8.   ...
+8.   [KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation](https://arxiv.org/abs/2010.02307) **EMNLP2020**
+     - Code: [Official](https://github.com/wenhuchen/KGPT)
+9.   ...
 
 ## 2. DataSets
 
@@ -235,7 +237,13 @@ Source: [ToTTo: A Controlled Table-To-Text Generation Dataset](https://arxiv.org
 
 Code: [Official](https://github.com/google-research-datasets/totto)
 
-### 13. LOGIC2TEXT
+### 13. LogicNLG
+
+Source: [Logical Natural Language Generation from Open-Domain Tables](https://www.aclweb.org/anthology/2020.acl-main.708/) **ACL2020**
+
+Code: [Official](https://github.com/wenhuchen/LogicNLG)
+
+### 14. LOGIC2TEXT
 
 Source: [Logic2Text: High-Fidelity Natural Language Generation from Logical Forms](https://arxiv.org/abs/2004.14579) **arXiv2020**
 
