@@ -124,7 +124,9 @@
      - Code: [Official](https://github.com/czyssrs/Logic2Text)
 8.   [KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation](https://arxiv.org/abs/2010.02307) **EMNLP2020**
      - Code: [Official](https://github.com/wenhuchen/KGPT)
-9.   ...
+9.   [Online Back-Parsing for AMR-to-Text Generation](https://arxiv.org/abs/2010.04520) **EMNLP2020**
+     - Code: [Official](https://github.com/muyeby/AMR-Backparsing)
+10.   ...
 
 ## 2. DataSets
 
