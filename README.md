@@ -126,7 +126,9 @@
      - Code: [Official](https://github.com/wenhuchen/KGPT)
 9.   [Online Back-Parsing for AMR-to-Text Generation](https://arxiv.org/abs/2010.04520) **EMNLP2020**
      - Code: [Official](https://github.com/muyeby/AMR-Backparsing)
-10.   ...
+10.   [Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation](https://arxiv.org/pdf/2010.04383.pdf) **EMNLP2020**
+      - Code: [Official](https://github.com/yanzhangnlp/LDGCNs)
+11.   ...
 
 ## 2. DataSets
 
