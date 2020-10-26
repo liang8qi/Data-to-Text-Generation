@@ -107,7 +107,9 @@
     - Code: [Official](https://github.com/sodawater/graph-reconstruction-amr2text)
 27. [RDF-to-Text Generation with Graph-augmented Structural Neural Encoders](https://www.ijcai.org/Proceedings/2020/419)  **IJCAI2020**
     - Code: [Official](https://github.com/Nicoleqwerty/RDF-to-Text)
-28. ...
+28. A Hierarchical Model for Data-to-Text Generation **ECIR2020**
+    - Code: [Official](https://github.com/KaijuML/data-to-text-hierarchical)
+29. ...
 
 ### 2020
 
@@ -128,7 +130,9 @@
      - Code: [Official](https://github.com/muyeby/AMR-Backparsing)
 10.   [Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation](https://arxiv.org/pdf/2010.04383.pdf) **EMNLP2020**
       - Code: [Official](https://github.com/yanzhangnlp/LDGCNs)
-11.   ...
+11.   [Stepwise Extractive Summarization and Planning with Structured Transformers](https://arxiv.org/abs/2010.02744) **EMNLP2020**
+      - Code: [Official](https://github.com/google-research/google-research/tree/master/etcsum)
+12.   
 
 ## 2. DataSets
 
