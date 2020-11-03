@@ -71,45 +71,47 @@
 5. [Enhanced Transformer Model for Data-to-Text Generation](https://www.aclweb.org/anthology/D19-5615/) **EMLP-WGNT2019**
    - Code: [Official](https://github.com/gongliym/data2text-transformer)
 6. [Selecting, Planning, and Rewriting: A Modular Approach for Data-to-Document Generation and Translation](https://www.aclweb.org/anthology/D19-5633/) **EMNLP2019-short**
-7. [Enhancing AMR-to-Text Generation with Dual Graph Representations](https://arxiv.org/abs/1909.00352) **EMNLP2019**
+7. [Long and Diverse Text Generation with Planning-based Hierarchical Variational Model](https://arxiv.org/abs/1908.06605) **EMNLP2019**
+   - Code: [Official](https://github.com/ZhihongShao/Planning-based-Hierarchical-Variational-Model)
+8. [Enhancing AMR-to-Text Generation with Dual Graph Representations](https://arxiv.org/abs/1909.00352) **EMNLP2019**
    - Code: [Official](https://github.com/UKPLab/emnlp2019-dualgraph)
-8. [An Encoder with non-Sequential Dependency for Neural Data-to-Text Generation](https://www.aclweb.org/anthology/W19-8619/) **INLG2019**
-9. [Controlling Contents in Data-to-Document Generation with Human-Designed Topic Labels](https://www.aclweb.org/anthology/W19-8640/) **INLG2019**
-10. [Revisiting Challenges in Data-to-Text Generation with Fact Grounding](https://www.aclweb.org/anthology/W19-8639/) **INLG2019**
+9. [An Encoder with non-Sequential Dependency for Neural Data-to-Text Generation](https://www.aclweb.org/anthology/W19-8619/) **INLG2019**
+10. [Controlling Contents in Data-to-Document Generation with Human-Designed Topic Labels](https://www.aclweb.org/anthology/W19-8640/) **INLG2019**
+11. [Revisiting Challenges in Data-to-Text Generation with Fact Grounding](https://www.aclweb.org/anthology/W19-8639/) **INLG2019**
     - Code: [Official](https://github.com/wanghm92/rw_fg)
-11. [Graph Transformer for Graph-to-Sequence Learning](https://arxiv.org/abs/1911.07470) **AAAI2020**
+12. [Graph Transformer for Graph-to-Sequence Learning](https://arxiv.org/abs/1911.07470) **AAAI2020**
     - Code: [Official](https://github.com/jcyk/gtos)
-12. [Sentence Generation for Entity Description with Content-plan Attention](https://people.eng.unimelb.edu.au/jianzhongq/papers/AAAI2020_SentenceGeneration.pdf) **AAAI2020**
+13. [Sentence Generation for Entity Description with Content-plan Attention](https://people.eng.unimelb.edu.au/jianzhongq/papers/AAAI2020_SentenceGeneration.pdf) **AAAI2020**
     - Code: [Official](http://www.ruizhang.info/GKB/gkb.htm)
-13. [Learning to Select Bi-Aspect Information for Document-Scale Text Content Manipulation](https://arxiv.org/abs/2002.10210) **AAAI2020**
+14. [Learning to Select Bi-Aspect Information for Document-Scale Text Content Manipulation](https://arxiv.org/abs/2002.10210) **AAAI2020**
     - Code: [Official](https://github.com/syw1996/SCIR-TG-Data2text-Bi-Aspect)
-14. [Variational Template Machine for Data-to-Text Generation](https://openreview.net/forum?id=HkejNgBtPB) **ICLR2020**
-15. [Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints](https://arxiv.org/abs/2005.00969) **ACL2020**
-16. [Neural Data-to-Text Generation via Jointly Learning the Segmentation and Correspondence](https://arxiv.org/abs/2005.01096) **ACL2020**
-17. [Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation](https://www.aclweb.org/anthology/2020.acl-main.224/) **ACL2020**
+15. [Variational Template Machine for Data-to-Text Generation](https://openreview.net/forum?id=HkejNgBtPB) **ICLR2020**
+16. [Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints](https://arxiv.org/abs/2005.00969) **ACL2020**
+17. [Neural Data-to-Text Generation via Jointly Learning the Segmentation and Correspondence](https://arxiv.org/abs/2005.01096) **ACL2020**
+18. [Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation](https://www.aclweb.org/anthology/2020.acl-main.224/) **ACL2020**
     - Code: Official
-18. [Heterogeneous Graph Transformer for Graph-to-Sequence Learning](https://www.aclweb.org/anthology/2020.acl-main.640/) **ACL2020**
+19. [Heterogeneous Graph Transformer for Graph-to-Sequence Learning](https://www.aclweb.org/anthology/2020.acl-main.640/) **ACL2020**
     - Code: [Official](https://github.com/QAQ-v/HetGT)
-19. [Structural Information Preserving for Graph-to-Text Generation](https://www.aclweb.org/anthology/2020.acl-main.712/) **ACL2020**
+20. [Structural Information Preserving for Graph-to-Text Generation](https://www.aclweb.org/anthology/2020.acl-main.712/) **ACL2020**
     - Code: [Official](https://github.com/Soistesimmer/AMR-multiview)
-20. [Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks](https://www.aclweb.org/anthology/2020.acl-main.67/) **ACL2020**
+21. [Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks](https://www.aclweb.org/anthology/2020.acl-main.67/) **ACL2020**
     - Code: [Official](https://github.com/ybz79/AMR2text)
-21. [GPT-too: A Language-Model-First Approach for AMR-to-Text Generation](https://www.aclweb.org/anthology/2020.acl-main.167/) **ACL2020**
+22. [GPT-too: A Language-Model-First Approach for AMR-to-Text Generation](https://www.aclweb.org/anthology/2020.acl-main.167/) **ACL2020**
     - Code: [Official](https://github.com/IBM/GPT-too-AMR2text)
-22. [Logical Natural Language Generation from Open-Domain Tables](https://www.aclweb.org/anthology/2020.acl-main.708/) **ACL2020**
+23. [Logical Natural Language Generation from Open-Domain Tables](https://www.aclweb.org/anthology/2020.acl-main.708/) **ACL2020**
     - Code: [Official](https://github.com/wenhuchen/LogicNLG)
-23. [A Generative Model for Joint Natural Language Understanding and Generation](https://arxiv.org/abs/2006.07499) **ACL2020**
+24. [A Generative Model for Joint Natural Language Understanding and Generation](https://arxiv.org/abs/2006.07499) **ACL2020**
     - Code: [Official](https://github.com/andy194673/Joint-NLU-NLG)
-24. [Two Birds, One Stone: A Simple, Uniﬁed Model for Text Generation from Structured and Unstructured Data](https://arxiv.org/abs/1909.10158) **ACL2020**
+25. [Two Birds, One Stone: A Simple, Uniﬁed Model for Text Generation from Structured and Unstructured Data](https://arxiv.org/abs/1909.10158) **ACL2020**
     - Code: [Official](https://github.com/h-shahidi/2birds-gen)
-25. [Infobox-to-text Generation with Tree-like PLanning based Attention Network](https://www.ijcai.org/Proceedings/2020/522) **IJCAI2020**
-26. [Better AMR-To-Text Generation with Graph Structure Reconstruction](https://www.ijcai.org/Proceedings/2020/542) **IJCAI2020**
+26. [Infobox-to-text Generation with Tree-like PLanning based Attention Network](https://www.ijcai.org/Proceedings/2020/522) **IJCAI2020**
+27. [Better AMR-To-Text Generation with Graph Structure Reconstruction](https://www.ijcai.org/Proceedings/2020/542) **IJCAI2020**
     - Code: [Official](https://github.com/sodawater/graph-reconstruction-amr2text)
-27. [RDF-to-Text Generation with Graph-augmented Structural Neural Encoders](https://www.ijcai.org/Proceedings/2020/419)  **IJCAI2020**
+28. [RDF-to-Text Generation with Graph-augmented Structural Neural Encoders](https://www.ijcai.org/Proceedings/2020/419)  **IJCAI2020**
     - Code: [Official](https://github.com/Nicoleqwerty/RDF-to-Text)
-28. A Hierarchical Model for Data-to-Text Generation **ECIR2020**
+29. [A Hierarchical Model for Data-to-Text Generation](https://arxiv.org/abs/1912.10011v1) **ECIR2020**
     - Code: [Official](https://github.com/KaijuML/data-to-text-hierarchical)
-29. ...
+30. ...
 
 ### 2020
 
@@ -132,7 +134,9 @@
       - Code: [Official](https://github.com/yanzhangnlp/LDGCNs)
 11.   [Stepwise Extractive Summarization and Planning with Structured Transformers](https://arxiv.org/abs/2010.02744) **EMNLP2020**
       - Code: [Official](https://github.com/google-research/google-research/tree/master/etcsum)
-12.   
+12.   [Partially-Aligned Data-to-Text Generation with Distant Supervision](https://arxiv.org/abs/2010.01268) **EMNLP2020**
+      - Code: [Official](https://github.com/fuzihaofzh/distant_supervision_nlg)
+13.   ...
 
 ## 2. DataSets
 
