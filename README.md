@@ -115,7 +115,7 @@
 
 ### 2020
 
-1.   [ToTTo: A Controlled Table-To-Text Generation Dataset](https://arxiv.org/abs/2004.14373) **arXiv2020**
+1.   [ToTTo: A Controlled Table-To-Text Generation Dataset](https://arxiv.org/abs/2004.14373) **EMNLP2020**
    - Code: [Official](https://github.com/google-research/language/tree/master/language/table_text_eval)
 2.   [Modeling Graph Structure via Relative Position for Better Text Generation from Knowledge Graphs](https://arxiv.org/abs/2006.09242) **arXiv2020**
 3.   [CycleGT: Unsupervised Graph-to-Text and Text-to-Graph Generation via Cycle Training](https://arxiv.org/abs/2006.04702) **NIPS2020**
@@ -124,7 +124,7 @@
      - Code: [Official](https://github.com/UKPLab/kg2text)
 5.   [Have Your Text and Use It Too! End-to-End Neural Data-to-Text Generation with Semantic Fidelity](https://arxiv.org/abs/2004.06577) **arXiv2020**
 6.   [Investigating Pretrained Language Models for Graph-to-Text Generation](https://arxiv.org/abs/2007.08426) **arXiv2020**
-7.   [Logic2Text: High-Fidelity Natural Language Generation from Logical Forms](https://arxiv.org/abs/2004.14579) **arXiv2020**
+7.   [Logic2Text: High-Fidelity Natural Language Generation from Logical Forms](https://arxiv.org/abs/2004.14579) **EMNLP2020**
      - Code: [Official](https://github.com/czyssrs/Logic2Text)
 8.   [KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation](https://arxiv.org/abs/2010.02307) **EMNLP2020**
      - Code: [Official](https://github.com/wenhuchen/KGPT)
@@ -136,7 +136,11 @@
       - Code: [Official](https://github.com/google-research/google-research/tree/master/etcsum)
 12.   [Partially-Aligned Data-to-Text Generation with Distant Supervision](https://arxiv.org/abs/2010.01268) **EMNLP2020**
       - Code: [Official](https://github.com/fuzihaofzh/distant_supervision_nlg)
-13.   ...
+13.   [GenWiki: A Dataset of 1.3 Million Content-Sharing Text and Graphs for Unsupervised Graph-to-Text Generation](http://zhijing-jin.com/files/papers/GenWiki2020.pdf) **COLING2020**
+      - Code: Official
+14.   [Enhancing Content Planning for Table-to-Text Generation with Data Understanding and Verification](https://www.aclweb.org/anthology/2020.findings-emnlp.262/) **EMNLP Findings 2020**
+      - Code: [Official](https://github.com/ErnestGong/data2text-duv)
+15.   ...
 
 ## 2. DataSets
 
