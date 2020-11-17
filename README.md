@@ -140,7 +140,9 @@
       - Code: Official
 14.   [Enhancing Content Planning for Table-to-Text Generation with Data Understanding and Verification](https://www.aclweb.org/anthology/2020.findings-emnlp.262/) **EMNLP Findings 2020**
       - Code: [Official](https://github.com/ErnestGong/data2text-duv)
-15.   ...
+15.   [Multilingual AMR-to-Text Generation](https://arxiv.org/abs/2011.05443) **EMNLP2020**
+      - Code: [Official](https://github.com/facebookresearch/m-amr2text)
+16.   ...
 
 ## 2. DataSets
 
