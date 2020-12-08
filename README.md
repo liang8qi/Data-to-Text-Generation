@@ -122,7 +122,7 @@
      - Code: [Official](https://github.com/QipengGuo/CycleGT)
 4.   [Modeling Global and Local Node Contexts for Text Generation from Knowledge Graphs](https://arxiv.org/abs/2001.11003) **TACL2020**
      - Code: [Official](https://github.com/UKPLab/kg2text)
-5.   [Have Your Text and Use It Too! End-to-End Neural Data-to-Text Generation with Semantic Fidelity](https://arxiv.org/abs/2004.06577) **arXiv2020**
+5.   [Have Your Text and Use It Too! End-to-End Neural Data-to-Text Generation with Semantic Fidelity](https://arxiv.org/abs/2004.06577) **COLING2020**
 6.   [Investigating Pretrained Language Models for Graph-to-Text Generation](https://arxiv.org/abs/2007.08426) **arXiv2020**
 7.   [Logic2Text: High-Fidelity Natural Language Generation from Logical Forms](https://arxiv.org/abs/2004.14579) **EMNLP2020**
      - Code: [Official](https://github.com/czyssrs/Logic2Text)
@@ -142,7 +142,9 @@
       - Code: [Official](https://github.com/ErnestGong/data2text-duv)
 15.   [Multilingual AMR-to-Text Generation](https://arxiv.org/abs/2011.05443) **EMNLP2020**
       - Code: [Official](https://github.com/facebookresearch/m-amr2text)
-16.   ...
+16.   [ENT-DESC: Entity Description Generation by Exploring Knowledge Graph](https://arxiv.org/abs/2004.14813) **EMNLP2020**
+      - Code: [Official](https://github.com/LiyingCheng95/EntityDescriptionGeneration)
+17.   ...
 
 ## 2. DataSets
 
