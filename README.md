@@ -144,7 +144,9 @@
       - Code: [Official](https://github.com/facebookresearch/m-amr2text)
 16.   [ENT-DESC: Entity Description Generation by Exploring Knowledge Graph](https://arxiv.org/abs/2004.14813) **EMNLP2020**
       - Code: [Official](https://github.com/LiyingCheng95/EntityDescriptionGeneration)
-17.   ...
+17.   [An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing](https://arxiv.org/abs/1904.09447) **EMNLP2020**
+      - Code: [Official](https://github.com/mnschmit/unsupervised-graph-text-conversion)
+18.   ...
 
 ## 2. DataSets
 
