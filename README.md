@@ -148,6 +148,11 @@
       - Code: [Official](https://github.com/mnschmit/unsupervised-graph-text-conversion)
 18.   ...
 
+### 2021
+
+1. [Neural Data-to-Text Generation with LM-based Text Augmentation](https://arxiv.org/abs/2102.03556) **EACL2021**
+2. ...
+
 ## 2. DataSets
 
 ### 2.1 Table2Text
@@ -157,7 +162,7 @@
 |  1   | WIKIBIO              | Wikipedia   | [Neural text generation from structured data with application to the biography domain](https://arxiv.org/abs/1603.07771) **EMNLP2016** | 582,695/72,831/72,831 | 212   | [Official](https://github.com/DavidGrangier/wikipedia-biography-dataset) |
 |  2   | E2E                  | Restaurants | [The E2E dataset: New challenges for end-to- end generation](https://arxiv.org/abs/1706.09254) **SIGDIAL2017** | 4,2061/4,672/4,693    | 135   | [Official](http://www.macs.hw.ac.uk/InteractionLab/E2E/)     |
 |  3   | ROTOWIRE             | Basketball  | [Challenges in Data-to-Document Generation](https://arxiv.org/abs/1707.08052) **EMNLP2017** | 3,371/727/728         | 227   | [Official](https://github.com/harvardnlp/boxscore-data)      |
-|  4   | WEATHERGOV           | Weather     | [Learning Semantic Correspondences with Less Supervision](https://www.aclweb.org/anthology/P09-1011.pdf) | 25,000/1,000/3,528    | 255   | [Official](https://cs.stanford.edu/~pliang/data/weather-data.zip) |
+|  4   | WEATHERGOV           | Weather     | [Learning Semantic Correspondences with Less Supervision](https://www.aclweb.org/anthology/P09-1011/) **ACL2009** | 25,000/1,000/3,528    | 255   | [Official](https://cs.stanford.edu/~pliang/data/weather-data.zip) |
 |  6   | ESPN                 | Basketball  | [Operation-guided Neural Networks for High Fidelity Data-To-Text Generation](https://arxiv.org/abs/1809.02735v1) **EMNLP2018** | 12,043/1,505/1,506    | 25    | [Official](https://github.com/janenie/espn-nba-data)         |
 |  7   | ROTOWIRE-MODIFIED    | Basketball  | [Learning to Select, Track, and Generate for Data-to-Text](https://www.aclweb.org/anthology/P19-1202/) **ACL2019** | 2,705/532/497         | 14    | [Official](https://github.com/aistairc/rotowire-modified)    |
 |  8   | MLB                  | Baseball    | [Data-to-text Generation with Entity Modeling](https://www.aclweb.org/anthology/P19-1195/) **ACL2019** | 22,821/1,739/1,744    | 27    | [Official](https://github.com/ratishsp/mlb-data-scripts)     |
