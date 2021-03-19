@@ -151,7 +151,8 @@
 ### 2021
 
 1. [Neural Data-to-Text Generation with LM-based Text Augmentation](https://arxiv.org/abs/2102.03556) **EACL2021**
-2. ...
+2. [Structural Adapters in Pretrained Language Models for AMR-to-text Generation](https://arxiv.org/abs/2103.09120) **ArXiv2021**
+3. ...
 
 ## 2. DataSets
 
