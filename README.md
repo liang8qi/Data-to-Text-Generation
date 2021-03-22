@@ -146,7 +146,8 @@
       - Code: [Official](https://github.com/LiyingCheng95/EntityDescriptionGeneration)
 17.   [An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing](https://arxiv.org/abs/1904.09447) **EMNLP2020**
       - Code: [Official](https://github.com/mnschmit/unsupervised-graph-text-conversion)
-18.   ...
+18.   [TableGPT: Few-shot Table-to-Text Generation with Table Structure Reconstruction and Content Matching](https://www.aclweb.org/anthology/2020.coling-main.179/) **COLING2020**
+19.   ...
 
 ### 2021
 
