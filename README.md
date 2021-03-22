@@ -89,7 +89,7 @@
 16. [Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints](https://arxiv.org/abs/2005.00969) **ACL2020**
 17. [Neural Data-to-Text Generation via Jointly Learning the Segmentation and Correspondence](https://arxiv.org/abs/2005.01096) **ACL2020**
 18. [Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation](https://www.aclweb.org/anthology/2020.acl-main.224/) **ACL2020**
-    - Code: Official
+    - Code: [Official](https://github.com/zhaochaocs/DualEnc)
 19. [Heterogeneous Graph Transformer for Graph-to-Sequence Learning](https://www.aclweb.org/anthology/2020.acl-main.640/) **ACL2020**
     - Code: [Official](https://github.com/QAQ-v/HetGT)
 20. [Structural Information Preserving for Graph-to-Text Generation](https://www.aclweb.org/anthology/2020.acl-main.712/) **ACL2020**
