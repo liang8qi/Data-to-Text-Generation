@@ -137,7 +137,7 @@
 12.   [Partially-Aligned Data-to-Text Generation with Distant Supervision](https://arxiv.org/abs/2010.01268) **EMNLP2020**
       - Code: [Official](https://github.com/fuzihaofzh/distant_supervision_nlg)
 13.   [GenWiki: A Dataset of 1.3 Million Content-Sharing Text and Graphs for Unsupervised Graph-to-Text Generation](http://zhijing-jin.com/files/papers/GenWiki2020.pdf) **COLING2020**
-      - Code: Official
+      - Code: [Official](https://github.com/zhijing-jin/genwiki)
 14.   [Enhancing Content Planning for Table-to-Text Generation with Data Understanding and Verification](https://www.aclweb.org/anthology/2020.findings-emnlp.262/) **EMNLP Findings 2020**
       - Code: [Official](https://github.com/ErnestGong/data2text-duv)
 15.   [Multilingual AMR-to-Text Generation](https://arxiv.org/abs/2011.05443) **EMNLP2020**
