@@ -148,7 +148,8 @@
       - Code: [Official](https://github.com/mnschmit/unsupervised-graph-text-conversion)
 18.   [TableGPT: Few-shot Table-to-Text Generation with Table Structure Reconstruction and Content Matching](https://www.aclweb.org/anthology/2020.coling-main.179/) **COLING2020**
 19.   [Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View](https://arxiv.org/abs/2102.08585) **AAAI2021**
-20.   ...
+20.   [Neural Data-to-Text Generation with LM-based Text Augmentation](https://arxiv.org/abs/2102.03556) **EACL2021**
+21.   ...
 
 ### 2021
 
