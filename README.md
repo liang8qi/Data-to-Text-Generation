@@ -124,6 +124,7 @@
      - Code: [Official](https://github.com/UKPLab/kg2text)
 5.   [Have Your Text and Use It Too! End-to-End Neural Data-to-Text Generation with Semantic Fidelity](https://arxiv.org/abs/2004.06577) **COLING2020**
 6.   [Investigating Pretrained Language Models for Graph-to-Text Generation](https://arxiv.org/abs/2007.08426) **arXiv2020**
+     - Code: [Official](https://github.com/UKPLab/plms-graph2text)
 7.   [Logic2Text: High-Fidelity Natural Language Generation from Logical Forms](https://arxiv.org/abs/2004.14579) **EMNLP2020**
      - Code: [Official](https://github.com/czyssrs/Logic2Text)
 8.   [KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation](https://arxiv.org/abs/2010.02307) **EMNLP2020**
@@ -153,11 +154,12 @@
 
 ### 2021
 
-1. [Neural Data-to-Text Generation with LM-based Text Augmentation](https://arxiv.org/abs/2102.03556) **EACL2021**
-2. [Structural Adapters in Pretrained Language Models for AMR-to-text Generation](https://arxiv.org/abs/2103.09120) **ArXiv2021**
-3. ...
+1. [Structural Adapters in Pretrained Language Models for AMR-to-text Generation](https://arxiv.org/abs/2103.09120) **ArXiv2021**
+2. ...
 
 ## 2. DataSets
+
+**The citation information was updated on Jan 4, 2021**
 
 ### 2.1 Table2Text
 
