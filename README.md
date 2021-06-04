@@ -152,7 +152,9 @@
 19.   [TableGPT: Few-shot Table-to-Text Generation with Table Structure Reconstruction and Content Matching](https://www.aclweb.org/anthology/2020.coling-main.179/) **COLING2020**
 20.   [Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View](https://arxiv.org/abs/2102.08585) **AAAI2021**
 21.   [Neural Data-to-Text Generation with LM-based Text Augmentation](https://arxiv.org/abs/2102.03556) **EACL2021**
-22.   ...
+22.   [Few-shot Knowledge Graph-to-Text Generation with Pretrained Language Models](https://arxiv.org/abs/2106.01623) **ACL2021 Findings**
+      - Code: [Official](https://github.com/RUCAIBox/Few-Shot-KG2Text)
+23.   ...
 
 ### 2021
 
