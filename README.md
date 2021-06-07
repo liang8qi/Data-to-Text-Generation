@@ -154,7 +154,9 @@
 21.   [Neural Data-to-Text Generation with LM-based Text Augmentation](https://arxiv.org/abs/2102.03556) **EACL2021**
 22.   [Few-shot Knowledge Graph-to-Text Generation with Pretrained Language Models](https://arxiv.org/abs/2106.01623) **ACL2021 Findings**
       - Code: [Official](https://github.com/RUCAIBox/Few-Shot-KG2Text)
-23.   ...
+23.   [Stage-wise Fine-tuning for Graph-to-Text Generation](https://arxiv.org/abs/2105.08021) **ACL2021 Workshop**
+      - Code: [Official](https://github.com/EagleW/Stage-wise-Fine-tuning)
+24.   ...
 
 ### 2021
 
