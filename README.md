@@ -156,7 +156,8 @@
       - Code: [Official](https://github.com/RUCAIBox/Few-Shot-KG2Text)
 23.   [Stage-wise Fine-tuning for Graph-to-Text Generation](https://arxiv.org/abs/2105.08021) **ACL2021 Workshop**
       - Code: [Official](https://github.com/EagleW/Stage-wise-Fine-tuning)
-24.   ...
+24.   [Sketch and Refine: Towards Faithful and Informative Table-to-Text Generation](https://arxiv.org/abs/2105.14778) **ACL2021 Findings**
+25.   ...
 
 ### 2021
 
