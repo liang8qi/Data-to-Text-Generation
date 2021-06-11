@@ -141,7 +141,7 @@
       - Code: [Official](https://github.com/fuzihaofzh/distant_supervision_nlg)
 14.   [GenWiki: A Dataset of 1.3 Million Content-Sharing Text and Graphs for Unsupervised Graph-to-Text Generation](http://zhijing-jin.com/files/papers/GenWiki2020.pdf) **COLING2020**
       - Code: [Official](https://github.com/zhijing-jin/genwiki)
-15.   [Enhancing Content Planning for Table-to-Text Generation with Data Understanding and Verification](https://www.aclweb.org/anthology/2020.findings-emnlp.262/) **EMNLP Findings 2020**
+15.   [Enhancing Content Planning for Table-to-Text Generation with Data Understanding and Verification](https://www.aclweb.org/anthology/2020.findings-emnlp.262/) **EMNLP2020 Findings**
       - Code: [Official](https://github.com/ErnestGong/data2text-duv)
 16.   [Multilingual AMR-to-Text Generation](https://arxiv.org/abs/2011.05443) **EMNLP2020**
       - Code: [Official](https://github.com/facebookresearch/m-amr2text)
@@ -149,14 +149,15 @@
       - Code: [Official](https://github.com/LiyingCheng95/EntityDescriptionGeneration)
 18.   [An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing](https://arxiv.org/abs/1904.09447) **EMNLP2020**
       - Code: [Official](https://github.com/mnschmit/unsupervised-graph-text-conversion)
-19.   [TableGPT: Few-shot Table-to-Text Generation with Table Structure Reconstruction and Content Matching](https://www.aclweb.org/anthology/2020.coling-main.179/) **COLING2020**
-20.   [Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View](https://arxiv.org/abs/2102.08585) **AAAI2021**
-21.   [Neural Data-to-Text Generation with LM-based Text Augmentation](https://arxiv.org/abs/2102.03556) **EACL2021**
-22.   [Few-shot Knowledge Graph-to-Text Generation with Pretrained Language Models](https://arxiv.org/abs/2106.01623) **ACL2021 Findings**
+19.   [Make Templates Smarter: A Template Based Data2Text System Powered by Text Stitch Model](https://www.aclweb.org/anthology/2020.findings-emnlp.94/) **EMNLP2020 Findings**
+20.   [TableGPT: Few-shot Table-to-Text Generation with Table Structure Reconstruction and Content Matching](https://www.aclweb.org/anthology/2020.coling-main.179/) **COLING2020**
+21.   [Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View](https://arxiv.org/abs/2102.08585) **AAAI2021**
+22.   [Neural Data-to-Text Generation with LM-based Text Augmentation](https://arxiv.org/abs/2102.03556) **EACL2021**
+23.   [Few-shot Knowledge Graph-to-Text Generation with Pretrained Language Models](https://arxiv.org/abs/2106.01623) **ACL2021 Findings**
       - Code: [Official](https://github.com/RUCAIBox/Few-Shot-KG2Text)
-23.   [Stage-wise Fine-tuning for Graph-to-Text Generation](https://arxiv.org/abs/2105.08021) **ACL2021 Workshop**
+24.   [Stage-wise Fine-tuning for Graph-to-Text Generation](https://arxiv.org/abs/2105.08021) **ACL2021 Workshop**
       - Code: [Official](https://github.com/EagleW/Stage-wise-Fine-tuning)
-24.   ...
+25.   ...
 
 ### 2021
 
