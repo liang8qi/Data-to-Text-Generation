@@ -176,8 +176,8 @@
 27.   [Stage-wise Fine-tuning for Graph-to-Text Generation](https://arxiv.org/abs/2105.08021) **ACL2021 Workshop**
       - Code: [Official](https://github.com/EagleW/Stage-wise-Fine-tuning)
 28.   [Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem](https://arxiv.org/abs/2012.15329) **ACL2021**
-29.   ...
-
+24.   [Sketch and Refine: Towards Faithful and Informative Table-to-Text Generation](https://arxiv.org/abs/2105.14778) **ACL2021 Findings**
+25.   ...
 ### 2021
 
 1. [Structural Adapters in Pretrained Language Models for AMR-to-text Generation](https://arxiv.org/abs/2103.09120) **ArXiv2021**
