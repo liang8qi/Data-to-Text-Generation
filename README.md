@@ -1,11 +1,33 @@
 # Data-to-Text-Generation
 
-## News(2021.0721):
+[TOC]
+
+## News:
+
+### 2021.09.27
+
+- **Papers**
+  1. DART: Open-Domain Structured Data Record to Text Generation **NAACL2021**
+  2. Promoting Graph Awareness in Linearized Graph-to-Text Generation **ACL2021 Findings**
+  3. De-Confounded Variational Encoder-Decoder for Logical Table-to-Text Generation **ACL2021**
+  4. Towards Table-to-Text Generation with Numerical Reasoning **ACL2021**
+  5. Improving Encoder by Auxiliary Supervision Tasks for Table-to-Text Generation **ACL2021**
+  6. WIKITABLET: A Large-Scale Data-to-Text Dataset for Generating Wikipedia Article Sections **ACL2021 Findings**
+  7. Structural Adapters in Pretrained Language Models for AMR-to-text Generation **EMNLP 2021**
+  8. Plan-then-Generate: Controlled Data-to-Text Generation via Planning **EMNLP2021 Findings**
+  9. Few-Shot Table-to-Text Generation with Prototype Memory **EMNLP2021 Findings**
+  10. Smelting Gold and Silver for Improved Multilingual AMR-to-Text Generation **EMNLP2021**
+- **Datasetes**
+  1. DART: Open-Domain Structured Data Record to Text Generation **NAACL2021**
+  2. Towards Table-to-Text Generation with Numerical Reasoning **ACL2021**
+  3. WIKITABLET: A Large-Scale Data-to-Text Dataset for Generating Wikipedia Article Sections **ACL2021 Findings**
+
+### 2021.07.21
 
 - **Papers**
   1. WikiGraphs: A Wikipedia Text - Knowledge Graph Paired Dataset **NAACL|TextGraphs2021**
   2. Data-to-text Generation with Macro Planning **TACL2021**
-  3. Modeling Graph Structure via Relative Position for Text Generation from Knowledge Graphs **ACL2021 Findings**
+  3. Modeling Graph Structure via Relative Position for Text Generation from Knowledge Graphs **NAACL|TextGraphs2021**
   4. Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem **ACL2021**
 - **Datasets**
   1. WikiGraphs **NAACL|TextGraphs2021**
@@ -20,10 +42,12 @@
 ## 1. Papers
 
 ### 2016
+
 1. [Neural Text Generation from Structured Data with Application to the Biography Domain](https://arxiv.org/abs/1603.07771) **EMNLP2016**
    - Code:[Official](https://github.com/DavidGrangier/wikipedia-biography-dataset)
 
 ### 2017
+
 1. [Challenges in Data-to-Document Generation](https://arxiv.org/abs/1707.08052) **EMNLP2017**
    - Code: [Official](https://github.com/harvardnlp/data2text)
 2. [Order-planning neural text generation from structured data](https://arxiv.org/abs/1709.00155) **AAAI2018**
@@ -128,43 +152,44 @@
 
 1.   [ToTTo: A Controlled Table-To-Text Generation Dataset](https://arxiv.org/abs/2004.14373) **EMNLP2020**
      - Code: [Official](https://github.com/google-research-datasets/totto)
-2.   [Modeling Graph Structure via Relative Position for Better Text Generation from Knowledge Graphs](https://arxiv.org/abs/2006.09242) **arXiv2020**
-3.   [CycleGT: Unsupervised Graph-to-Text and Text-to-Graph Generation via Cycle Training](https://arxiv.org/abs/2006.04702) **NIPS2020**
+2.   [CycleGT: Unsupervised Graph-to-Text and Text-to-Graph Generation via Cycle Training](https://arxiv.org/abs/2006.04702) **NIPS2020**
      - Code: [Official](https://github.com/QipengGuo/CycleGT)
-4.   [Modeling Global and Local Node Contexts for Text Generation from Knowledge Graphs](https://arxiv.org/abs/2001.11003) **TACL2020**
+3.   [Modeling Global and Local Node Contexts for Text Generation from Knowledge Graphs](https://arxiv.org/abs/2001.11003) **TACL2020**
      - Code: [Official](https://github.com/UKPLab/kg2text)
-5.   [AMR-to-text Generation with Graph Transformer](https://www.aclweb.org/anthology/2020.tacl-1.2.pdf) **TACL2020**
+4.   [AMR-to-text Generation with Graph Transformer](https://www.aclweb.org/anthology/2020.tacl-1.2.pdf) **TACL2020**
      - Code: [Official](https://github.com/sodawater/GraphTransformer)
-6.   [Have Your Text and Use It Too! End-to-End Neural Data-to-Text Generation with Semantic Fidelity](https://arxiv.org/abs/2004.06577) **COLING2020**
+5.   [Have Your Text and Use It Too! End-to-End Neural Data-to-Text Generation with Semantic Fidelity](https://arxiv.org/abs/2004.06577) **COLING2020**
      - Code: [Official](https://github.com/amazon-research/datatuner)
-7.   [Investigating Pretrained Language Models for Graph-to-Text Generation](https://arxiv.org/abs/2007.08426) **arXiv2020**
+6.   [Investigating Pretrained Language Models for Graph-to-Text Generation](https://arxiv.org/abs/2007.08426) **arXiv2020**
      - Code: [Official](https://github.com/UKPLab/plms-graph2text)
-8.   [Logic2Text: High-Fidelity Natural Language Generation from Logical Forms](https://arxiv.org/abs/2004.14579) **EMNLP2020**
+7.   [Logic2Text: High-Fidelity Natural Language Generation from Logical Forms](https://arxiv.org/abs/2004.14579) **EMNLP2020**
      - Code: [Official](https://github.com/czyssrs/Logic2Text)
-9.   [KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation](https://arxiv.org/abs/2010.02307) **EMNLP2020**
+8.   [KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation](https://arxiv.org/abs/2010.02307) **EMNLP2020**
      - Code: [Official](https://github.com/wenhuchen/KGPT)
-10.   [Online Back-Parsing for AMR-to-Text Generation](https://arxiv.org/abs/2010.04520) **EMNLP2020**
-      - Code: [Official](https://github.com/muyeby/AMR-Backparsing)
-11.   [Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation](https://arxiv.org/pdf/2010.04383.pdf) **EMNLP2020**
+9.   [Online Back-Parsing for AMR-to-Text Generation](https://arxiv.org/abs/2010.04520) **EMNLP2020**
+     - Code: [Official](https://github.com/muyeby/AMR-Backparsing)
+10.   [Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation](https://arxiv.org/pdf/2010.04383.pdf) **EMNLP2020**
       - Code: [Official](https://github.com/yanzhangnlp/LDGCNs)
-12.   [Stepwise Extractive Summarization and Planning with Structured Transformers](https://arxiv.org/abs/2010.02744) **EMNLP2020**
+11.   [Stepwise Extractive Summarization and Planning with Structured Transformers](https://arxiv.org/abs/2010.02744) **EMNLP2020**
       - Code: [Official](https://github.com/google-research/google-research/tree/master/etcsum)
-13.   [Partially-Aligned Data-to-Text Generation with Distant Supervision](https://arxiv.org/abs/2010.01268) **EMNLP2020**
+12.   [Partially-Aligned Data-to-Text Generation with Distant Supervision](https://arxiv.org/abs/2010.01268) **EMNLP2020**
       - Code: [Official](https://github.com/fuzihaofzh/distant_supervision_nlg)
-14.   [GenWiki: A Dataset of 1.3 Million Content-Sharing Text and Graphs for Unsupervised Graph-to-Text Generation](http://zhijing-jin.com/files/papers/GenWiki2020.pdf) **COLING2020**
+13.   [GenWiki: A Dataset of 1.3 Million Content-Sharing Text and Graphs for Unsupervised Graph-to-Text Generation](http://zhijing-jin.com/files/papers/GenWiki2020.pdf) **COLING2020**
       - Code: [Official](https://github.com/zhijing-jin/genwiki)
-15.   [Enhancing Content Planning for Table-to-Text Generation with Data Understanding and Verification](https://www.aclweb.org/anthology/2020.findings-emnlp.262/) **EMNLP2020 Findings**
+14.   [Enhancing Content Planning for Table-to-Text Generation with Data Understanding and Verification](https://www.aclweb.org/anthology/2020.findings-emnlp.262/) **EMNLP2020 Findings**
       - Code: [Official](https://github.com/ErnestGong/data2text-duv)
-16.   [Multilingual AMR-to-Text Generation](https://arxiv.org/abs/2011.05443) **EMNLP2020**
+15.   [Multilingual AMR-to-Text Generation](https://arxiv.org/abs/2011.05443) **EMNLP2020**
       - Code: [Official](https://github.com/facebookresearch/m-amr2text)
-17.   [ENT-DESC: Entity Description Generation by Exploring Knowledge Graph](https://arxiv.org/abs/2004.14813) **EMNLP2020**
+16.   [ENT-DESC: Entity Description Generation by Exploring Knowledge Graph](https://arxiv.org/abs/2004.14813) **EMNLP2020**
       - Code: [Official](https://github.com/LiyingCheng95/EntityDescriptionGeneration)
-18.   [An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing](https://arxiv.org/abs/1904.09447) **EMNLP2020**
+17.   [An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing](https://arxiv.org/abs/1904.09447) **EMNLP2020**
       - Code: [Official](https://github.com/mnschmit/unsupervised-graph-text-conversion)
-19.   [Make Templates Smarter: A Template Based Data2Text System Powered by Text Stitch Model](https://www.aclweb.org/anthology/2020.findings-emnlp.94/) **EMNLP2020 Findings**
-20.   [TableGPT: Few-shot Table-to-Text Generation with Table Structure Reconstruction and Content Matching](https://www.aclweb.org/anthology/2020.coling-main.179/) **COLING2020**
-21.   [Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View](https://arxiv.org/abs/2102.08585) **AAAI2021**
-22.   [Neural Data-to-Text Generation with LM-based Text Augmentation](https://arxiv.org/abs/2102.03556) **EACL2021**
+18.   [Make Templates Smarter: A Template Based Data2Text System Powered by Text Stitch Model](https://www.aclweb.org/anthology/2020.findings-emnlp.94/) **EMNLP2020 Findings**
+19.   [TableGPT: Few-shot Table-to-Text Generation with Table Structure Reconstruction and Content Matching](https://www.aclweb.org/anthology/2020.coling-main.179/) **COLING2020**
+20.   [Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View](https://arxiv.org/abs/2102.08585) **AAAI2021**
+21.   [Neural Data-to-Text Generation with LM-based Text Augmentation](https://arxiv.org/abs/2102.03556) **EACL2021**
+22.   [DART: Open-Domain Structured Data Record to Text Generation](https://arxiv.org/abs/2007.02871) **NAACL2021**
+      - Code: [Official](https://github.com/Yale-LILY/dart)
 23.   [Modeling Graph Structure via Relative Position for Text Generation from Knowledge Graphs](https://aclanthology.org/2021.textgraphs-1.2/) **NAACL|TextGraphs2021**
       - Code: [Official](https://github.com/mnschmit/graformer)
 24.   [WikiGraphs: A Wikipedia Text - Knowledge Graph Paired Dataset](https://aclanthology.org/2021.textgraphs-1.7/) **NAACL|TextGraphs2021**
@@ -176,14 +201,30 @@
 27.   [Stage-wise Fine-tuning for Graph-to-Text Generation](https://arxiv.org/abs/2105.08021) **ACL2021 Workshop**
       - Code: [Official](https://github.com/EagleW/Stage-wise-Fine-tuning)
 28.   [Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem](https://arxiv.org/abs/2012.15329) **ACL2021**
-24.   [Sketch and Refine: Towards Faithful and Informative Table-to-Text Generation](https://arxiv.org/abs/2105.14778) **ACL2021 Findings**
-25.   ...
+29.   [Sketch and Refine: Towards Faithful and Informative Table-to-Text Generation](https://arxiv.org/abs/2105.14778) **ACL2021 Findings**
+30.   [Promoting Graph Awareness in Linearized Graph-to-Text Generation](https://arxiv.org/abs/2012.15793) **ACL2021 Findings**
+31.   [De-Confounded Variational Encoder-Decoder for Logical Table-to-Text Generation](https://aclanthology.org/2021.acl-long.430/) **ACL2021**
+32.   [Towards Table-to-Text Generation with Numerical Reasoning](https://aclanthology.org/2021.acl-long.115/) **ACL2021**
+      - Code: [Official](https://github.com/titech-nlp/numeric-nlg)
+33.   [Improving Encoder by Auxiliary Supervision Tasks for Table-to-Text Generation](https://aclanthology.org/2021.acl-long.466/) **ACL2021**
+      - Code: [Official](https://github.com/liang8qi/Data2TextWithAuxiliarySupervision)
+34.   [WIKITABLET: A Large-Scale Data-to-Text Dataset for Generating Wikipedia Article Sections](https://arxiv.org/pdf/2012.14919) **ACL2021 Findings**
+      - Code: [Official](https://github.com/mingdachen/WikiTableT)
+35.   ...
+
 ### 2021
 
-1. [Structural Adapters in Pretrained Language Models for AMR-to-text Generation](https://arxiv.org/abs/2103.09120) **ArXiv2021**
+1. [Structural Adapters in Pretrained Language Models for AMR-to-text Generation](https://arxiv.org/abs/2103.09120) **EMNLP 2021**
+   - Code: [Official](https://github.com/UKPLab/StructAdapt)
 2. [Learning to Reason for Text Generation from Scientific Tables](https://arxiv.org/abs/2104.08296)  **ArXiv2021**
    - Code: [Official](https://github.com/UKPLab/SciGen)
-3. ...
+3. [Plan-then-Generate: Controlled Data-to-Text Generation via Planning](https://arxiv.org/abs/2108.13740) **EMNLP2021 Findings**
+   - Code: [Official](https://github.com/yxuansu/PlanGen/)
+4. [Few-Shot Table-to-Text Generation with Prototype Memory](https://arxiv.org/abs/2108.12516) **EMNLP2021Findings**
+   - Code: [Official](https://github.com/yxuansu/Few-Shot-Table-to-Text-Generation)
+5. [Smelting Gold and Silver for Improved Multilingual AMR-to-Text Generation](https://arxiv.org/abs/2109.03808) **EMNLP2021**
+   - Code: [Official](https://github.com/UKPLab/m-AMR2Text)
+6. ...
 
 ## 2. DataSets
 
@@ -206,26 +247,30 @@
 |  12  | LOGICNLG             | Wikipedia   | [Logical Natural Language Generation from Open-Domain Tables](https://www.aclweb.org/anthology/2020.acl-main.708/) **ACL2020** | 28,450/4,260/4,305    | 12    | [Official](https://github.com/wenhuchen/LogicNLG)            |
 |  13  | ToTTo                | Wikipedia   | [ToTTo: A Controlled Table-To-Text Generation Dataset](https://arxiv.org/abs/2004.14373) **EMNLP2020** | 120,761/7,700/7,700   | 13    | [Official](https://github.com/google-research-datasets/totto) |
 |  14  | SciGen               | ArXiv       | [Learning to Reason for Text Generation from Scientific Tables](https://arxiv.org/abs/2104.08296)  **ArXiv2021** | -                     | -     | [Official](https://github.com/UKPLab/SciGen)                 |
+|  15  | numericNLG           | Scientific  | [Towards Table-to-Text Generation with Numerical Reasoning](https://aclanthology.org/2021.acl-long.115/) ACL2021 | -                     | -     | [Official](https://github.com/titech-nlp/numeric-nlg)        |
+|  16  | WIKITABLET           | Wikipedia   | [WIKITABLET: A Large-Scale Data-to-Text Dataset for Generating Wikipedia Article Sections](https://arxiv.org/pdf/2012.14919) **ACL2021 Findings** | -/4533/4351           | -     | [Official](https://github.com/mingdachen/WikiTableT)         |
 
 ### 2.2 Graph2Text
 
-|  No  |  Dataset   | Type             | Source                                                       | Train/Dev/Test     | Cited |                                                              |
-| :--: | :--------: | ---------------- | :----------------------------------------------------------- | :----------------- | :---: | ------------------------------------------------------------ |
-|  1   |   WebNLG   | RDF              | -                                                            | -                  |   -   | [Official](https://gitlab.com/shimorina/webnlg-dataset)      |
-|  2   | LDC2015E86 | AMR              | -                                                            | 16,833/1,368/1,371 |   -   | [Official]( https://amr.isi.edu/download.html)               |
-|  3   | LDC2017T10 | AMR              | -                                                            | 36,521/1,368/1,371 |   -   | [Official]( https://amr.isi.edu/download.html)               |
-|  4   | LDC2020T02 | AMR              | -                                                            | 55,635/1,722/1,898 |   -   | [Official]( https://amr.isi.edu/download.html)               |
-|  5   |   AGENDA   | Knowledge Graphs | [Text Generation from Knowledge Graphs with Graph Transformers](https://arxiv.org/abs/1904.02342) **NAACL2019** | 38,720/1,000/1,000 |  74   | [Official](https://github.com/rikdz/GraphWriter)             |
-|  6   | LOGIC2TEXT | Wikipedia        | [Logic2Text: High-Fidelity Natural Language Generation from Logical Forms](https://arxiv.org/abs/2004.14579) **EMNLP2020** | 8,566/1,095/1,092  |   1   | [Official](https://github.com/czyssrs/Logic2Text)            |
-|  7   |    WITA    | Wikipedia        | [Partially-Aligned Data-to-Text Generation with Distant Supervision](https://arxiv.org/abs/2010.01268) **EMNLP2020** | 50,000/5,000/400   |   2   | [Official](https://github.com/fuzihaofzh/distant_supervision_nlg) |
-|  8   |  GenWiki   | -                | [GenWiki: A Dataset of 1.3 Million Content-Sharing Text and Graphs for Unsupervised Graph-to-Text Generation](https://www.aclweb.org/anthology/2020.coling-main.217/) **COLING2020** | -                  |   -   | [Official](https://github.com/zhijing-jin/genwiki)           |
-|  9   |  ENT-DESC  | -                | [ENT-DESC: Entity Description Generation by Exploring Knowledge Graph](https://arxiv.org/abs/2004.14813) **EMNLP2020** | -                  |   -   | [Official](https://github.com/LiyingCheng95/EntityDescriptionGeneration) |
-|  10  | WikiGraphs | Wikipedia        | [WikiGraphs: A Wikipedia Text - Knowledge Graph Paired Dataset](https://aclanthology.org/2021.textgraphs-1.7/) **NAACL\|TextGraphs2021** | 23,431/48/43       |   -   | [Official](https://github.com/deepmind/deepmind-research/tree/master/wikigraphs) |
-|  11  |  Map2Seq   | OpenStreetMap    | [Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem](https://arxiv.org/abs/2012.15329) **ACL2021** | -                  |   -   | [Official](https://www.cl.uni-heidelberg.de/statnlpgroup/map2seq/) |
+|  No  |  Dataset   | Type                 | Source                                                       | Train/Dev/Test      | Cited |                                                              |
+| :--: | :--------: | -------------------- | :----------------------------------------------------------- | :------------------ | :---: | ------------------------------------------------------------ |
+|  1   |   WebNLG   | RDF                  | -                                                            | -                   |   -   | [Official](https://gitlab.com/shimorina/webnlg-dataset)      |
+|  2   | LDC2015E86 | AMR                  | -                                                            | 16,833/1,368/1,371  |   -   | [Official]( https://amr.isi.edu/download.html)               |
+|  3   | LDC2017T10 | AMR                  | -                                                            | 36,521/1,368/1,371  |   -   | [Official]( https://amr.isi.edu/download.html)               |
+|  4   | LDC2020T02 | AMR                  | -                                                            | 55,635/1,722/1,898  |   -   | [Official]( https://amr.isi.edu/download.html)               |
+|  5   |   AGENDA   | Knowledge Graphs     | [Text Generation from Knowledge Graphs with Graph Transformers](https://arxiv.org/abs/1904.02342) **NAACL2019** | 38,720/1,000/1,000  |  74   | [Official](https://github.com/rikdz/GraphWriter)             |
+|  6   | LOGIC2TEXT | Wikipedia            | [Logic2Text: High-Fidelity Natural Language Generation from Logical Forms](https://arxiv.org/abs/2004.14579) **EMNLP2020** | 8,566/1,095/1,092   |   1   | [Official](https://github.com/czyssrs/Logic2Text)            |
+|  7   |    WITA    | Wikipedia            | [Partially-Aligned Data-to-Text Generation with Distant Supervision](https://arxiv.org/abs/2010.01268) **EMNLP2020** | 50,000/5,000/400    |   2   | [Official](https://github.com/fuzihaofzh/distant_supervision_nlg) |
+|  8   |  GenWiki   | -                    | [GenWiki: A Dataset of 1.3 Million Content-Sharing Text and Graphs for Unsupervised Graph-to-Text Generation](https://www.aclweb.org/anthology/2020.coling-main.217/) **COLING2020** | -                   |   -   | [Official](https://github.com/zhijing-jin/genwiki)           |
+|  9   |  ENT-DESC  | -                    | [ENT-DESC: Entity Description Generation by Exploring Knowledge Graph](https://arxiv.org/abs/2004.14813) **EMNLP2020** | -                   |   -   | [Official](https://github.com/LiyingCheng95/EntityDescriptionGeneration) |
+|  10  | WikiGraphs | Wikipedia            | [WikiGraphs: A Wikipedia Text - Knowledge Graph Paired Dataset](https://aclanthology.org/2021.textgraphs-1.7/) **NAACL\|TextGraphs2021** | 23,431/48/43        |   -   | [Official](https://github.com/deepmind/deepmind-research/tree/master/wikigraphs) |
+|  11  |  Map2Seq   | OpenStreetMap        | [Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem](https://arxiv.org/abs/2012.15329) **ACL2021** | -                   |   -   | [Official](https://www.cl.uni-heidelberg.de/statnlpgroup/map2seq/) |
+|  12  |    DART    | Wikipedia+Restaurant | [DART: Open-Domain Structured Data Record to Text Generation](https://arxiv.org/abs/2007.02871) **NAACL2021** | 62,659/6,980/12,552 |  11   | [Official](https://github.com/Yale-LILY/dart)                |
 
 
 
 ## 3. Evaluation Metrics
+
 | No   | Metric     | Source                                                       | Cited |                                                              |
 | ---- | ---------- | ------------------------------------------------------------ | ----- | ------------------------------------------------------------ |
 | 1    | BLEU       | [Bleu: a Method for Automatic Evaluation of Machine Translation](https://www.aclweb.org/anthology/P02-1040/) **ACL2020** | 14039 | -                                                            |
@@ -233,4 +278,3 @@
 | 3    | PARENT     | [Handling Divergent Reference Texts when Evaluating Table-to-Text Generation](https://arxiv.org/abs/1906.01081) **ACL2019** | 18    | [Official](https://github.com/google-research/language/tree/master/language/table_text_eval) |
 
 # Updating ......
-
