@@ -4,7 +4,7 @@
 
 ## News:
 
-### 2022.02.21
+### 2022.02.19
 
 - **Papers**
   1. Attend, Memorize and Generate: Towards Faithful Table-to-Text Generation in Few Shots **EMNLP2021 Findings**
