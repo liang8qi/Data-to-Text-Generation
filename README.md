@@ -1,8 +1,33 @@
 # Data-to-Text-Generation
 
-[TOC]
-
 ## News:
+
+### 2022.08.10
+- **Papers**
+  1. Does the Order of Training Samples Matter? Improving NeuralData-to-Text Generation with Curriculum Learning **EACL2021**
+  2. Text-to-Text Pre-Training for Data-to-Text Tasks **INLG2020**
+  3. TableGPT: Few-shot Table-to-Text Generation with Table Structure Reconstruction and Content Matching **COLING2020**
+  4. Latent Tree Decomposition Parsers for AMR-to-Text Generation **ArXiv2021**
+  5. Tree Decomposition Attention for AMR-to-Text Generation **ArXiv2021**
+  6. Attention Is Indeed All You Need: Semantically Attention-Guided Decoding for Data-to-Text NLG **INLG2021**
+  7. Search and Learn: Improving Semantic Coverage for Data-to-Text Generation **AAAI2022**
+  8. Curriculum-Based Self-Training Makes Better Few-Shot Learners for Data-to-Text Generation **IJCAI2022**
+  9. Structure-Aware Pre-Training for Table-to-Text Generation **ACL2021 Findings**
+  10. Improving Compositional Generalization with Self-Training for Data-to-Text Generation **ACL2022**
+  11. Neural Pipeline for Zero-Shot Data-to-Text Generation **ACL2022**
+  12. uFACT: Unfaithful Alien-Corpora Training for Semantically Consistent Data-to-Text Generation **ACL2022 Findings Short**
+  13. Rewarding Semantic Similarity under Optimized Alignments for AMR-to-Text Generation **ACL2022 Short**
+  14. Robust (Controlled) Table-to-Text Generation with Structure-Aware Equivariance Learning **NAACL2022**
+  15. Syntax Controlled Knowledge Graph-to-Text Generation with Order and Semantic Consistency **NAACL2022 Findings**
+  16. Generating Textual Explanations for Machine Learning Models Performance: A Table-to-Text Task **LREC2022**
+  17. Table-To-Text generation and pre-training with TABT5  **NAACL2022 SUKI Workshop**
+  18. MVP: Multi-task Supervised Pre-training for Natural Language Generation **ArXiv2022**
+  19. UNIFIEDSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models **ArXiv2022**
+  20. FLAP: Table-to-Text Generation with Feature Indication and Numerical Reasoning Pretraining **ARR-2021-12**
+  21. GAP: A Graph-aware Language Model Framework for Knowledge Graph-to-Text Generation **ArXiv2022**
+  22. [What Makes Data-to-Text Generation Hard for Pretrained Language Models](https://arxiv.org/abs/2205.11505) **ArXiv2022** 
+- **Datasets**
+  1. Hitab: A hierarchical table dataset for question answering and natural language generation **ACL2022**
 
 ### 2022.02.21
 
@@ -35,16 +60,6 @@
   2. Towards Table-to-Text Generation with Numerical Reasoning **ACL2021**
   3. WIKITABLET: A Large-Scale Data-to-Text Dataset for Generating Wikipedia Article Sections **ACL2021 Findings**
 
-### 2021.07.21
-
-- **Papers**
-  1. WikiGraphs: A Wikipedia Text - Knowledge Graph Paired Dataset **NAACL|TextGraphs2021**
-  2. Data-to-text Generation with Macro Planning **TACL2021**
-  3. Modeling Graph Structure via Relative Position for Text Generation from Knowledge Graphs **NAACL|TextGraphs2021**
-  4. Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem **ACL2021**
-- **Datasets**
-  1. WikiGraphs **NAACL|TextGraphs2021**
-  2. Map2Seq **ACL2021**
 
 ## Content
 
@@ -223,7 +238,12 @@
       - Code: [Official](https://github.com/liang8qi/Data2TextWithAuxiliarySupervision)
 34.   [WIKITABLET: A Large-Scale Data-to-Text Dataset for Generating Wikipedia Article Sections](https://arxiv.org/pdf/2012.14919) **ACL2021 Findings**
       - Code: [Official](https://github.com/mingdachen/WikiTableT)
-35.   ...
+35.   [Text-to-Text Pre-Training for Data-to-Text Tasks](https://arxiv.org/abs/2005.10433) **INLG2020**
+36.   [TableGPT: Few-shot Table-to-Text Generation with Table Structure Reconstruction and Content Matching](https://aclanthology.org/2020.coling-main.179/) **COLING2020**
+      - Code: [Official](https://github.com/czyssrs/Few-Shot-NLG)
+37.   [Structure-Aware Pre-Training for Table-to-Text Generation ACL2021 Findings](https://aclanthology.org/2021.findings-acl.200.pdf) **ACL2021 Findings**
+38.   [Does the Order of Training Samples Matter? Improving NeuralData-to-Text Generation with Curriculum Learning](https://arxiv.org/abs/2102.03554) **EACL2021**
+39.   ...
 
 ### 2021
 
@@ -239,16 +259,43 @@
    - Code: [Official](https://github.com/UKPLab/m-AMR2Text)
 6. [Attend, Memorize and Generate: Towards Faithful Table-to-Text Generation in Few Shots](https://aclanthology.org/2021.findings-emnlp.347/) **EMNLP2021 Findings**
 7. [Data-to-text Generation by Splicing Together Nearest Neighbors](https://aclanthology.org/2021.emnlp-main.352/) **EMNLP2021**
-   - Code: [Official](https://github.com/swiseman/neighbor-splicing)
+    - Code: [Official](https://github.com/swiseman/neighbor-splicing)
 8. [TWT: Table with Written Text for Controlled Data-to-Text Generation](https://aclanthology.org/2021.findings-emnlp.107/) **EMNLP2021 Findings**
-   - Code: [Official](https://github.com/tonyliangli/TWT)
+    - Code: [Official](https://github.com/tonyliangli/TWT)
 9. [Data-QuestEval: A Reference-less Metric for Data-to-Text Semantic Evaluation](https://aclanthology.org/2021.emnlp-main.633.pdf) **EMNLP2021**
-   - Code: [Official](https://github.com/ThomasScialom/QuestEval)
-10. [EventNarrative: A large-scale Event-centric Dataset for Knowledge Graph-to-Text Generation](https://openreview.net/forum?id=3ZQqjt_Q6b) **NIP2021**
+    - Code: [Official](https://github.com/ThomasScialom/QuestEval)
+10. [EventNarrative: A large-scale Event-centric Dataset for Knowledge Graph-to-Text Generation](https://openreview.net/forum?id=3ZQqjt_Q6b) **NIPS2021**
     - Code: [Official](https://www.kaggle.com/acolas1/eventnarration)
-11. [Improving Compositional Generalization with Self-Training for Data-to-Text Generation](https://openreview.net/forum?id=QTSlG9lWk8) **ARR-2021-12**
-12. [Robust (Controlled) Table-to-Text Generation with Structure-Aware Equivariance Learning](https://openreview.net/forum?id=VBZCrsaUpsM) **ARR-2022-01**
-13. ...
+11. [Attention Is Indeed All You Need: Semantically Attention-Guided Decoding for Data-to-Text NLG](https://arxiv.org/abs/2109.07043) **INLG2021**
+      - Code: [Official](https://github.com/jjuraska/data2text-nlg)
+12. [Latent Tree Decomposition Parsers for AMR-to-Text Generation](https://arxiv.org/abs/2108.12304) **ArXiv2021**
+      - Code: [Official](https://github.com/lisjin/lat-par)
+13. [Tree Decomposition Attention for AMR-to-Text Generation](https://arxiv.org/abs/2108.12300) **ArXiv2021**
+      - Code: [Official](https://github.com/lisjin/td-attn)
+14. [Search and Learn: Improving Semantic Coverage for Data-to-Text Generation](https://arxiv.org/abs/2112.02770) **AAAI2022**
+      - Code: [Official](https://github.com/shailzajolly/FSDT)
+15. [Curriculum-Based Self-Training Makes Better Few-Shot Learners for Data-to-Text Generation](https://arxiv.org/abs/2206.02712) **IJCAI2022**
+      - Code: [Official](https://github.com/kepei1106/CBST)
+16. [Improving Compositional Generalization with Self-Training for Data-to-Text Generation](https://aclanthology.org/2022.acl-long.289/) **ACL2022**
+17. [Hitab: A hierarchical table dataset for question answering and natural language generation](https://aclanthology.org/2022.acl-long.78/) **ACL2022**
+       - Code: [Official](https://github.com/microsoft/HiTab)
+18. [Neural Pipeline for Zero-Shot Data-to-Text Generation](https://aclanthology.org/2022.acl-long.271/) **ACL2022**
+      - Code: [Official](https://github.com/kasnerz/zeroshot-d2t-pipeline)
+19. [uFACT: Unfaithful Alien-Corpora Training for Semantically Consistent Data-to-Text Generation](https://aclanthology.org/2022.findings-acl.223/) **ACL2022 Findings Short**
+20. [Rewarding Semantic Similarity under Optimized Alignments for AMR-to-Text Generation](https://aclanthology.org/2022.acl-short.80/) **ACL2022 Short**
+21. [Robust (Controlled) Table-to-Text Generation with Structure-Aware Equivariance Learning](https://aclanthology.org/2022.naacl-main.371/) **NAACL2022**
+22. [Syntax Controlled Knowledge Graph-to-Text Generation with Order and Semantic Consistency](https://aclanthology.org/2022.findings-naacl.95/) **NAACL2022 Findings**
+       - Code: [Official](https://github.com/LemonQC/KG2Text)
+23. [Generating Textual Explanations for Machine Learning Models Performance: A Table-to-Text Task](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.379.pdf) **LREC2022**
+24. [Table-To-Text generation and pre-training with TABT5](https://suki-workshop.github.io/assets/paper/17.pdf) **NAACL2022 SUKI Workshop**
+       - Code: [Official](https://github.com/Durham-University-VIVID-Noura-s-Lab/ClassificationPerformanceExplanations)
+25. [MVP: Multi-task Supervised Pre-training for Natural Language Generation](https://arxiv.org/abs/2206.12131) **ArXiv2022**
+       - Code: [Official](https://github.com/RUCAIBox/MVP)
+26. [UNIFIEDSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models](https://arxiv.org/abs/2201.05966) **ArXiv2022**
+       - Code: [Official](https://github.com/HKUNLP/UnifiedSKG)
+27. [FLAP: Table-to-Text Generation with Feature Indication and Numerical Reasoning Pretraining](https://openreview.net/forum?id=j6PUcXtiy75) **ARR-2021-12**
+28. [GAP: A Graph-aware Language Model Framework for Knowledge Graph-to-Text Generation](https://arxiv.org/abs/2204.06674) **ArXiv2022**
+29. [What Makes Data-to-Text Generation Hard for Pretrained Language Models](https://arxiv.org/abs/2205.11505) **ArXiv2022** 
 
 ## 2. Datasets
 
@@ -274,6 +321,7 @@
 |  15  | numericNLG           | Scientific  | [Towards Table-to-Text Generation with Numerical Reasoning](https://aclanthology.org/2021.acl-long.115/) **ACL2021** | -                                                 | -     | [Official](https://github.com/titech-nlp/numeric-nlg)        |
 |  16  | WIKITABLET           | Wikipedia   | [WIKITABLET: A Large-Scale Data-to-Text Dataset for Generating Wikipedia Article Sections](https://arxiv.org/pdf/2012.14919) **ACL2021 Findings** | -/4533/4351                                       | -     | [Official](https://github.com/mingdachen/WikiTableT)         |
 |  17  | TWT                  | Wikipedia   | [TWT: Table with Written Text for Controlled Data-to-Text Generation](https://aclanthology.org/2021.findings-emnlp.107/) **EMNLP2021 Findings** | 113, 063/7, 690/7, 515 and 39, 678/5, 009/4, 730. | -     | [Official](https://github.com/tonyliangli/TWT)               |
+|  18  | Hitab                | Wikipedia   | [Hitab: A hierarchical table dataset for question answering and natural language generation](https://aclanthology.org/2022.acl-long.78/) **ACL2022** | 10,686 | - | [Official](https://github.com/microsoft/HiTab) |
 
 ### 2.2 Graph2Text
 
